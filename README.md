@@ -7,5 +7,5 @@ Gmail: aatmaj.mhatre@gmail.com  ✌️
 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/aatmajmhatre/)
 
-Star this repo for updates!🙂 👍 💥
+Star this repo and follow me for updates!🙂 👍 💥
 🙏🙏🙏
