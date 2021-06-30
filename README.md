@@ -19,7 +19,7 @@ Star this repo and follow me for updates!🙂 👍 💥
 ______
 Hi all!👍 I am launching a brand new blog series for self-learning python. Learn python from the scratch! Have fun while learning Python in an easy way.
 
-These blogs will be published on the Dev.to platform. Here is the hyperlink.
+These blogs will be published on the Dev.to platform. [Here](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) is the hyperlink. 😁
 
 All code, exercise solutions and relevant material will be on this Git repo.
 
