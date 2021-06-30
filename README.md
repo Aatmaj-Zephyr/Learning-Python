@@ -15,3 +15,46 @@ For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or
 
 Star this repo and follow me for updates!🙂 👍 💥
 🙏🙏🙏
+
+______
+Hi all!👍 I am launching a brand new blog series for self-learning python. Learn python from the scratch! Have fun while learning Python in an easy way.
+
+These blogs will be published on the Dev.to platform. Here is the hyperlink.
+
+All code, exercise solutions and relevant material will be on this Git repo.
+
+This course is for everyone from beginner to advanced. For that, it is designed in three levels- basic, Intermediate and advanced. The topics covered are as follows-
+
+A) Basic-
+
+1) Variables and operators
+
+2) Loops and nested loops
+
+3) Lists, tuples and dictionaries
+
+4) String functions
+
+B) Intermediate-
+
+1) User defined functions
+
+2) GUI and design
+
+3) File handling in Python
+
+4) OOP techniques
+
+c) Advanced-
+
+1) MySql
+
+2) Database connectivity
+
+3) Form designing
+
+4) Interesting Projects
+
+Hope to hear from you all in the comments below! Please feel free to add any suggestions too!
+
+;~)
