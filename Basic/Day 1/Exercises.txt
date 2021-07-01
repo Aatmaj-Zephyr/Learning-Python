@@ -1,4 +1,4 @@
-Please solve these exercises for strengthning the concepts learnt.
+Please solve these exercises for strengthning the concepts which have been learnt in the first day.
 1) Name any one disadvantage of Python.
 2) What is Python ususlly used for?
 3) Name five advantages of Python.
