@@ -1,6 +1,8 @@
 [Learning Python- Basic course: Day 2, Statements, Comments and Indentation](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71)
 ---
 Orininglly published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71)
+
+
 ✌️Hi all! Welcome to the second day of the course! Today let us learn about some Python syntax.
 ---
 ____
