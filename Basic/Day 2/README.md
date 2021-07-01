@@ -54,6 +54,7 @@ print("Percentage scored",avg,"%")
 
 ```
 Output-
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/anryspmfuk101cb7oc1i.png)
  
 Note, that as we need to operate upon the numbers inputted, we have used the int() method.
