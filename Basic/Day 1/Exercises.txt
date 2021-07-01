@@ -3,7 +3,7 @@ Please solve these exercises for strengthning the concepts learnt.
 2) What is Python ususlly used for?
 3) Name five advantages of Python.
 4) Write a hello world program in Python.
-5) Is Python OOP?
+5) Is Python an OOP languages?
 6) Give two aspects which make Python user friendly.
 7) Is Python interpreted or compiled? 
 8) Is Python a strongly typed or weekly typed language?
