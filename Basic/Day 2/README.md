@@ -82,5 +82,5 @@ Exercise----
 
 *To be continued....😏*
 ____
-So friends that's all for this part. 😊 Hope you all are enjoying.😎 Please let me know in the comment section if you liked it or not. 🧐 And don't forget to like the post if you did. 😍 I am open to any suggestions or doubts. 🤠 Just post in the comments below or gmail me. 😉
+So friends that's all for this part. 😊 Hope you all are enjoying.😎 Please let me know in the [comment section](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71) if you liked it or not. 🧐 And don't forget to like the post if you did. 😍 I am open to any suggestions or doubts. 🤠 Just post in the comments [here](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71) or gmail me. 😉
 Thank you for being so patient.👍
