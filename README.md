@@ -13,7 +13,7 @@ For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or
 [1]: https://www.linkedin.com/in/aatmajmhatre/
 [2]: https://aatmaj.mhatre@gmail.com
 
-Star this repo and follow me for updates!🙂 👍 💥
+⭐Star this repo 🤩 and follow me for updates!🙂 👍 💥
 🙏🙏🙏
 
 ______
