@@ -1,6 +1,7 @@
 # [Learning Python- Basic course: Day 1, Introduction and Installation](https://dev.to/aatmaj/learning-python-basic-course-day-1-introduction-and-installation-ee8)
 ---
 Originally published on dev.to [here](https://dev.to/aatmaj/learning-python-basic-course-day-1-introduction-and-installation-ee8)
+
 **Introduction to Python**
 Python is a general-purpose programming language. It is best suited for 'data' related  applications like Data Mining, Machine learning and data extraction. But we can also use it for a variety of other purposes. Nowadays, any application, from websites to Mobile applications can be built using Python. 
 You might be surprised to know that Python totally different from C++ or Java. Python doesnt have those spooky curly brackets. Gone! No trailing semicolons and no header files! Python code is designed to be as easy and simple as possible. Small code yet great results. Why, the hello world program in Python is just a one liner!
