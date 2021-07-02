@@ -6,7 +6,7 @@ Originally published on the dev.to platform [here](https://dev.to/aatmaj/learnin
 ____
 **Loops in python**
 **The For loop**- Everyone knows that the For Loop is a type of loop which runs statements for a given number of times. Here is the for loop syntax-
-````python
+```python
 for i in range (0,k):
  #statement 
 #the statement will run k times
@@ -114,4 +114,6 @@ ____
 Yes, these exercises were repetitive.🥱 But tomorrow we will do some really fantastic questions which actually are asked in interviews. Follow me for updates so you don't miss out on tomorrows special edition of learning Python course 😁. 
 😉
 
-😎 Your suggestions motivate me, so please please please let me know in the comment section if you this part or not. 🧐 And don't forget to like the post if you did. 😍 
+😎 Your suggestions motivate me, so please please please let me know in the [comment section](https://dev.to/aatmaj/learning-python-basic-course-day-4-the-for-loop-40m8) if you this part or not. 🧐 And don't forget to like the post on dev.to if you did. 😍 
+
+# Please star the repo 🤩
