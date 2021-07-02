@@ -1,0 +1,13 @@
+a=1
+n=0
+while True:
+ if(a>=50):
+     break
+ n=n+1
+ for i in range(0,n):
+    for j in range(0,n):
+        print(a,end=",")
+    if(a>=50):
+     break
+    a=a+1 
+    
