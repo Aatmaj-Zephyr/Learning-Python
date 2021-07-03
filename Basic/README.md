@@ -2,7 +2,7 @@ Basic module of the Learning Python course.
 ---
 Syllabus-
 
-1)Variables and operators
+1) Variables and operators
 
 2) Loops and nested loops
 
