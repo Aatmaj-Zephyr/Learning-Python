@@ -95,7 +95,7 @@ print(Istrue)
 ```
 True
 ```
-Exercise 1) If we interchange `ord()` and `chr()`, will the program still work? [Answer: NO] (https://github.com/Aatmaj-Zephyr/Learning-Python/blob/e3b422f89dca0694d7376aebc2a222675515f4c5/Basic/Day%208/Exercise%20solutions/Exercise%201.md)
+Exercise 1) If we interchange `ord()` and `chr()`, will the program still work? [Answer: NO](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/e3b422f89dca0694d7376aebc2a222675515f4c5/Basic/Day%208/Exercise%20solutions/Exercise%201.md)
 
 2) Write a program to give the following output-
 
