@@ -90,6 +90,6 @@ Coding challenge-⚔️
 
 Comment your answers below. Let's see who can solve tis one. 🗡️🛡️ Beware, it is harder than it seems....😉
 
-Answer to this question will be given in Day 9. 🤞 So stay tuned by following me for updates 👍. Please like and comment below 😊
+Answer to this question will be given in Day 9. 🤞 So stay tuned by following me for updates 👍. Please like and comment on [dev.to](https://dev.to/aatmaj/learning-python-basic-course-day-7-exercises-and-coding-challenges-2l2b) or fork the repo. 😊
 
  
