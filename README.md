@@ -55,9 +55,7 @@ c) Advanced-
 
 4) Interesting Projects
 
-Hope to hear from you all in the comments below! Please feel free to add any suggestions too!
-
-;~)
+Hope to hear from you all in the [comments on dev.to](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)! Please feel free to add any suggestions too!
 
 ____
 
