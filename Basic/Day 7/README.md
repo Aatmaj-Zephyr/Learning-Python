@@ -67,9 +67,9 @@ What such a small amount of code can do in seconds took us years to learn...🤩
 
 Exercises-
 
-1)- Modify the factorial program we did in day 4 to error check for zero and negative numbers.(using if-else) [Answer](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/15c67abac0cfe0a98dca8aca04feff544f2cc379/Basic/Day%207/Exercise%20solutions/Exercise%201.py)
+1) Modify the factorial program we did in day 4 to error check for zero and negative numbers.(using if-else) [Answer](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/15c67abac0cfe0a98dca8aca04feff544f2cc379/Basic/Day%207/Exercise%20solutions/Exercise%201.py)
 
-2)Write a program to give the following output. [Answer](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/15c67abac0cfe0a98dca8aca04feff544f2cc379/Basic/Day%207/Exercise%20solutions/Exercise%202.py)
+2) Write a program to give the following output. [Answer](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/15c67abac0cfe0a98dca8aca04feff544f2cc379/Basic/Day%207/Exercise%20solutions/Exercise%202.py)
 ```
 1
 121
@@ -79,7 +79,10 @@ Exercises-
 
 3) Write a program to display [perfect numbers](https://www.britannica.com/science/perfect-number#:~:text=Perfect%20number%2C%20a%20positive%20integer,28%2C%20496%2C%20and%208%2C128.) from a range entered by a user (include 0).
 
-Coding challenges-⚔️
+
+
+Coding challenge-⚔️
+
 1) Write a program to display terms of this infinite pattern until 50.
 ```
 1, 2,2,3,3, 4,4,4,5,5,5,6,6,6, 7,7,7,7,8,8,8,8,9,9,9,9,10,10,10,10,.....
