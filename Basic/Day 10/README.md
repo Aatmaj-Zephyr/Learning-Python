@@ -268,7 +268,7 @@ ValueError: list.remove(x): x not in list
 Exercise-
 
 Write a program for the following output-
-``
+```
 Please enter a number 5
 Please enter a number 1
 Please enter a number 2
@@ -278,6 +278,7 @@ Please enter a number 5
 Smallest value=  0  Greatest value=  5
 
 ```
+
 [Answer here](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/d7d53bb9cf73f8fe549aed3244028df6de2cfcf2/Basic/Day%2010/Exercise%20solutions/Exercise%201.py)
 ____
 So friends that's all for this part.  😊 Hope you all are enjoying.😎 Please let me know in the [comment section on dev.to](https://dev.to/aatmaj/learning-python-basic-course-day-10-lists-in-python-1hcb) if you liked it or not. 🧐 And don't forget to like the post if you did. 😍 I am open to any suggestions or doubts. 🤠 Just post in the [comments](https://dev.to/aatmaj/learning-python-basic-course-day-10-lists-in-python-1hcb) or Gmail me. 😉
