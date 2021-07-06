@@ -5,7 +5,8 @@ Originally published on the dev.to platform [here.](https://dev.to/aatmaj/learni
 Welcome!  🤟 This week is for data structures and related exercises in Python . Today we will study the 'list' data structure. 💎
 ---
 ___
-#List
+# List
+
 List is somewhat similar to arrays in Java. The common thing between lists and arrays is indexing part. Both are indexed in the same way. The differences in them arises in the data types. List is collection different data types, while arrays is a collection of same data types. Here is a technical defination- **A list is a data structure in Python that is a mutable or changeable, ordered sequence of 'items'.**- Every element in a list is indexes with umbers. Each element value in a list is called an 'item'. Moreover, a list is ordered, meaning the order of the element matters. There are inbuilt functions in Python which 'change' the list. but more about of that later..
 
 Let us now see how to make a list. We can make a list using square brackets.
