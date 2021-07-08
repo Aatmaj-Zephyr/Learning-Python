@@ -13,6 +13,6 @@ while low <= high:
             high = mid - 1
         # means x is present at mid
         else:
-            print(mid)
+            print(mid+1)
             break
         
