@@ -82,3 +82,5 @@ ____
 [Learning Python-Basic course: Day 10, Lists in Python](https://dev.to/aatmaj/learning-python-basic-course-day-10-lists-in-python-1hcb)
 
 [Learning Python-Basic course: Day 11, Multidimensional lists and Tuples](https://dev.to/aatmaj/learning-python-basic-course-day-11-multidimensional-lists-and-tuples-3bfl)
+
+[Learning Python- Basic course: Day 12, Basic algorithms](https://dev.to/aatmaj/learning-python-basic-course-day-12-basic-algorithms-1edc)
