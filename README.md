@@ -13,9 +13,10 @@ For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or
 [1]: https://www.linkedin.com/in/aatmajmhatre/
 [2]: https://aatmaj.mhatre@gmail.com
 
-⭐Fork and Star this repo 🤩 and follow me for updates!🙂 👍 💥
+⭐ Star this repo 🤩 and follow me for updates!🙂 👍 💥
 🙏🙏🙏
 
+## Feel free to fork this repo!
 ______
 Hi all!👍 I am launching a brand new blog series for self-learning python. Learn python from the scratch! Have fun while learning Python in an easy way.
 
