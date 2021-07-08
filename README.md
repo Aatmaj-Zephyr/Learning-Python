@@ -13,7 +13,7 @@ For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or
 [1]: https://www.linkedin.com/in/aatmajmhatre/
 [2]: https://aatmaj.mhatre@gmail.com
 
-⭐Star this repo 🤩 and follow me for updates!🙂 👍 💥
+⭐Fork and Star this repo 🤩 and follow me for updates!🙂 👍 💥
 🙏🙏🙏
 
 ______
@@ -77,3 +77,7 @@ ____
 [Learning Python-Basic course: Day 8, Unicode in Python](https://dev.to/aatmaj/learning-python-basic-course-day-8-unicode-in-python-4pdc)
 
 [Learning Python-Basic course: Day 9, Summary of the week and exercises.](https://dev.to/aatmaj/learning-python-basic-course-day-9-summary-of-the-week-and-exercises-ji6)
+
+[Learning Python-Basic course: Day 10, Lists in Python](https://dev.to/aatmaj/learning-python-basic-course-day-10-lists-in-python-1hcb)
+
+[Learning Python-Basic course: Day 11, Multidimensional lists and Tuples](https://dev.to/aatmaj/learning-python-basic-course-day-11-multidimensional-lists-and-tuples-3bfl)
