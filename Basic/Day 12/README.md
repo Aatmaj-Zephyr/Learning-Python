@@ -88,5 +88,5 @@ Sorted array is: [2, 3, 4, 5, 6, 7, 9, 10, 12]
 
 ____
 
-😎 Your suggestions motivate me, so please please please let me know in the [comment section on dev.to](https://dev.to/aatmaj/learning-python-basic-course-day-12-basic-his repoalgorithms-1edc) if you this part or not. 
-🧐 And don't forget to like the post if you did. 😍 Follow me on github and star t
+😎 Your suggestions motivate me, so please please please let me know in the [comment section on dev.to](https://dev.to/aatmaj/learning-python-basic-course-day-12-basic-algorithms-1edc) if you this part or not. 
+🧐 And don't forget to like the post if you did. 😍 Follow me on github and star this repo
