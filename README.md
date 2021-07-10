@@ -84,3 +84,5 @@ ____
 [Learning Python-Basic course: Day 11, Multidimensional lists and Tuples](https://dev.to/aatmaj/learning-python-basic-course-day-11-multidimensional-lists-and-tuples-3bfl)
 
 [Learning Python- Basic course: Day 12, Basic algorithms](https://dev.to/aatmaj/learning-python-basic-course-day-12-basic-algorithms-1edc)
+
+[Learning Python- Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
