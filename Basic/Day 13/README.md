@@ -137,7 +137,7 @@ Cannot pop from an empty list
 ```
 Answer is in the learning Python repo, but I would like everyone to fork the [sample program](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/4eefd0ae6e52bda6cb99360d3a0ae254e00bff1a/Basic/Day%2013/Sample%20questions/Sample%20question%202.py) we did earlier and open a 'pull request' for this modification. For those new with Pull requests, [here](https://opensource.com/article/19/7/create-pull-request-github) is a guide.
 
-3) Write a program for implementation of queue FIFO data structure. [Hint modify the Stack implementation.](https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/)
+3) Write a program for implementation of queue FIFO data structure. [Hint- modify the Stack implementation.](https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/)
 
 Sample output-
 ```
