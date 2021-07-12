@@ -1,4 +1,4 @@
-Ask any doubts rekated to Python basic course by starting a pull request on doubts.md in this repo. 
+Ask any doubts related to Python basic course by starting a pull request on doubts.md in this repo. 
 
 You can also comment on the [dev.to platform](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) or connect me via LinkedIn  or Gmail.
 
