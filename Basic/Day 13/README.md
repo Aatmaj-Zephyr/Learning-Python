@@ -1,4 +1,4 @@
-# [Learning Python- Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56/edit)
+# [Learning Python- Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
 
 Originally published on the [Dev.to platform here](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
 
