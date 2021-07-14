@@ -1,4 +1,4 @@
-# Learning-Python 👍 
+ # Learning-Python 👍 
 Hi,🤟 in this repo you will find all material required for the [learning python course!](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) 😁
 All material from sample codes to exercise solutions can be found here. 😇
 For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or Gmail. 😊
@@ -88,3 +88,5 @@ ____
 [Learning Python- Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
 
 [Learning Python-Basic course: Day 14,Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
+
+[Learning Python-Basic course: Day 15, More about try-except](https://dev.to/aatmaj/learning-python-basic-course-day-15-more-about-try-except-1nmj)
