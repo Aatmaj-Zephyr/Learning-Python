@@ -3,6 +3,6 @@ try:
     b=int(a)
     print(b)
 except:
-    print("OPPS! You entered a non-numeric character! ")
+    print("OOPS! You entered a non-numeric character! ")
 finally:
-    print("Bye!")
+    print("End of program!")
