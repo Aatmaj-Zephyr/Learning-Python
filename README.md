@@ -24,7 +24,7 @@ These blogs will be published on the Dev.to platform. [Here](https://dev.to/aatm
 
 All code, exercise solutions and relevant material will be on this Git repo.
 
-This course is for everyone from beginner to advanced. For that, it is designed in three levels- basic, Intermediate and advanced. The topics covered are as follows-
+This course is for everyone from beginner to advanced. For that, it is designed in three levels- basic, intermediate and advanced. The topics covered are as follows-
 
 A) Basic-
 
@@ -60,14 +60,14 @@ Hope to hear from you all in the [comments on dev.to](https://dev.to/aatmaj/laun
 
 ____
 
-[Learning Python- Basic course: Day 1, Introduction and Installation](https://dev.to/aatmaj/learning-python-basic-course-day-1-introduction-and-installation-ee8)
+[Learning Python-Basic course: Day 1, Introduction and Installation](https://dev.to/aatmaj/learning-python-basic-course-day-1-introduction-and-installation-ee8)
 
 
-[Learning Python- Basic course: Day 2, Statements, Comments and Indentation](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71)
+[Learning Python-Basic course: Day 2, Statements, Comments and Indentation](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71)
 
-[Learning Python- Basic course: Day 3, Operators and If-elif-else](https://dev.to/aatmaj/learning-python-basic-course-day-3-operators-and-if-elif-else-51cc)
+[Learning Python-Basic course: Day 3, Operators and If-elif-else](https://dev.to/aatmaj/learning-python-basic-course-day-3-operators-and-if-elif-else-51cc)
 
-[Learning Python- Basic course: Day 4, The for loop](https://dev.to/aatmaj/learning-python-basic-course-day-4-the-for-loop-40m8)
+[Learning Python-Basic course: Day 4, The for loop](https://dev.to/aatmaj/learning-python-basic-course-day-4-the-for-loop-40m8)
 
 [Learning Python-Basic course: Day 5, Summary of the week and Interview questions](https://dev.to/aatmaj/learning-python-basic-course-day-5-summary-of-the-week-and-interview-questions-37m0)
 
@@ -86,3 +86,5 @@ ____
 [Learning Python- Basic course: Day 12, Basic algorithms](https://dev.to/aatmaj/learning-python-basic-course-day-12-basic-algorithms-1edc)
 
 [Learning Python- Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
+
+[Learning Python-Basic course: Day 14,Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
