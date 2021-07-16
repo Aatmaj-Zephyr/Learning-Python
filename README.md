@@ -90,3 +90,7 @@ ____
 [Learning Python-Basic course: Day 14,Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
 
 [Learning Python-Basic course: Day 15, More about try-except](https://dev.to/aatmaj/learning-python-basic-course-day-15-more-about-try-except-1nmj)
+
+[Learning Python-Basic course: Day 16, Fractal lists and other questions](https://dev.to/aatmaj/learning-python-basic-course-day-16-fractal-lists-and-other-questions-1ca6)
+
+[Learning Python-Basic course: Day 17, Summary of the week and Insertion sort](https://dev.to/aatmaj/learning-python-basic-course-day-17-summary-of-the-week-and-insertion-sort-4bi0)
