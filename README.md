@@ -18,11 +18,11 @@ For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or
 
 ## Feel free to fork this repo!
 ______
-Hi all!👍 I am launching a brand new blog series for self-learning python. Learn python from the scratch! Have fun while learning Python in an easy way.
+Hi all!🤟 I am launching a brand new blog series for self-learning python. Learn python from the scratch! Have fun while learning Python in an easy way.
 
 These blogs will be published on the Dev.to platform. [Here](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) is the hyperlink. 😁
 
-All code, exercise solutions and relevant material will be on this Git repo.
+All code, exercise solutions and relevant material will be on this repo.👍
 
 This course is for everyone from beginner to advanced. For that, it is designed in three levels- basic, intermediate and advanced. The topics covered are as follows-
 
@@ -83,9 +83,9 @@ ____
 
 [Learning Python-Basic course: Day 11, Multidimensional lists and Tuples](https://dev.to/aatmaj/learning-python-basic-course-day-11-multidimensional-lists-and-tuples-3bfl)
 
-[Learning Python- Basic course: Day 12, Basic algorithms](https://dev.to/aatmaj/learning-python-basic-course-day-12-basic-algorithms-1edc)
+[Learning Python-Basic course: Day 12, Basic algorithms](https://dev.to/aatmaj/learning-python-basic-course-day-12-basic-algorithms-1edc)
 
-[Learning Python- Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
+[Learning Python-Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
 
 [Learning Python-Basic course: Day 14,Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
 
