@@ -24,7 +24,7 @@
 Brand
 Year
 >>> for x in hardware:
-...      print(hardware[x])#referes to the value
+...      print(hardware[x])#refers to the value
 ...
 Dell
 2019
