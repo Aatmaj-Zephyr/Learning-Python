@@ -1,4 +1,4 @@
-# [Learning Python-Basic course: Day 14,Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
+# [Learning Python-Basic course: Day 14, Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
 
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
