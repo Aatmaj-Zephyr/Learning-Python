@@ -94,3 +94,5 @@ ____
 [Learning Python-Basic course: Day 16, Fractal lists and other questions](https://dev.to/aatmaj/learning-python-basic-course-day-16-fractal-lists-and-other-questions-1ca6)
 
 [Learning Python-Basic course: Day 17, Summary of the week and Insertion sort](https://dev.to/aatmaj/learning-python-basic-course-day-17-summary-of-the-week-and-insertion-sort-4bi0)
+
+[Learning Python-Basic course: Day 18,Dictionaries in Python](https://dev.to/aatmaj/learning-python-basic-course-day-18-dictionaries-in-python-30af)
