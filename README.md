@@ -87,7 +87,7 @@ ____
 
 [Learning Python-Basic course: Day 13, Summary of the week and Stack implementation](https://dev.to/aatmaj/learning-python-basic-course-day-13-summary-of-the-week-and-stack-implementation-1b56)
 
-[Learning Python-Basic course: Day 14,Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
+[Learning Python-Basic course: Day 14, Basic Exception and error handling using try-except](https://dev.to/aatmaj/learning-python-basic-course-day-14-basic-exception-and-error-handling-using-try-except-5f38)
 
 [Learning Python-Basic course: Day 15, More about try-except](https://dev.to/aatmaj/learning-python-basic-course-day-15-more-about-try-except-1nmj)
 
@@ -95,4 +95,4 @@ ____
 
 [Learning Python-Basic course: Day 17, Summary of the week and Insertion sort](https://dev.to/aatmaj/learning-python-basic-course-day-17-summary-of-the-week-and-insertion-sort-4bi0)
 
-[Learning Python-Basic course: Day 18,Dictionaries in Python](https://dev.to/aatmaj/learning-python-basic-course-day-18-dictionaries-in-python-30af)
+[Learning Python-Basic course: Day 18, Dictionaries in Python](https://dev.to/aatmaj/learning-python-basic-course-day-18-dictionaries-in-python-30af)
