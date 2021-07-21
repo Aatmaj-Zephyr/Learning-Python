@@ -96,3 +96,5 @@ ____
 [Learning Python-Basic course: Day 17, Summary of the week and Insertion sort](https://dev.to/aatmaj/learning-python-basic-course-day-17-summary-of-the-week-and-insertion-sort-4bi0)
 
 [Learning Python-Basic course: Day 18, Dictionaries in Python](https://dev.to/aatmaj/learning-python-basic-course-day-18-dictionaries-in-python-30af)
+
+[Learning Python-Basic course: Day 19, Practicing Dictionary exercises](https://dev.to/aatmaj/learning-python-basic-course-day-19-practicing-dictionary-exercises-1723)
