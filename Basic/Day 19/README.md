@@ -49,7 +49,7 @@ print(a)
 ```
 *(Don't mind the order)*
 
-Sample question 3) Write a program for making the dictionary shown below using for loops-
+**Sample question 3)** Write a program for making the dictionary shown below using for loops-
 ```python
 a={
     1: [1, 2, 3, 4, 5],
@@ -74,7 +74,7 @@ OUTPUT-
 {1: [1, 2, 3, 4, 5], 2: [2, 3, 4, 5, 6], 3: [3, 4, 5, 6, 7], 4: [4, 5, 6, 7, 8], 5: [5, 6, 7, 8, 9]}
 ```
 
-Exercise 2)- Modify the above program for making the following dictionary-
+**Exercise 2)**- Modify the above program for making the following dictionary-
 ```python
 b={
     1:[1],
