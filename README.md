@@ -98,3 +98,5 @@ ____
 [Learning Python-Basic course: Day 18, Dictionaries in Python](https://dev.to/aatmaj/learning-python-basic-course-day-18-dictionaries-in-python-30af)
 
 [Learning Python-Basic course: Day 19, Practicing Dictionary exercises](https://dev.to/aatmaj/learning-python-basic-course-day-19-practicing-dictionary-exercises-1723)
+
+[Learning Python-Basic course: Day 20, HashTables via Dictionaries](https://dev.to/aatmaj/learning-python-basic-course-day-20-hashtables-via-dictionaries-3nf1)
