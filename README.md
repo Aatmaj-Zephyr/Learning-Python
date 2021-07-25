@@ -100,3 +100,5 @@ ____
 [Learning Python-Basic course: Day 19, Practicing Dictionary exercises](https://dev.to/aatmaj/learning-python-basic-course-day-19-practicing-dictionary-exercises-1723)
 
 [Learning Python-Basic course: Day 20, HashTables via Dictionaries](https://dev.to/aatmaj/learning-python-basic-course-day-20-hashtables-via-dictionaries-3nf1)
+
+[Learning Python-Basic course: Day 21,Summary of the week and dictionary exercises.](https://dev.to/aatmaj/learning-python-basic-course-day-21-summary-of-the-week-and-dictionary-exercises-391e)
