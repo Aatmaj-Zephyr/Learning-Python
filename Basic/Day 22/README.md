@@ -1,4 +1,4 @@
-[Learning Python-Basic course: Day 22, String Methods Part-1](https://dev.to/aatmaj/learning-python-basic-course-day-22-string-methods-part-1-9j8)
+# [Learning Python-Basic course: Day 22, String Methods Part-1](https://dev.to/aatmaj/learning-python-basic-course-day-22-string-methods-part-1-9j8)
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-basic-course-day-22-string-methods-part-1-9j8)
 
