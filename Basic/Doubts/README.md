@@ -1,6 +1,6 @@
 Ask any doubts related to Python basic course by starting a pull request on doubts.md in this repo. 
 
-You can also comment on the [dev.to platform](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) or connect me via LinkedIn  or Gmail.
+You can also comment the posts on the [dev.to platform](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) or connect me via LinkedIn  or Gmail.
 
 [![LinkedIn][1.2]][1]
    
@@ -12,3 +12,6 @@ You can also comment on the [dev.to platform](https://dev.to/aatmaj/launching-th
   [2.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
   [2]: https://aatmaj.mhatre@gmail.com
    
+   
+   
+Akways happy to solve your doubts😎 so feel free to send a fork.
