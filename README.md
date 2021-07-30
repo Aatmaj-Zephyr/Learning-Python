@@ -104,3 +104,9 @@ ____
 [Learning Python-Basic course: Day 21, Summary of the week and dictionary exercises.](https://dev.to/aatmaj/learning-python-basic-course-day-21-summary-of-the-week-and-dictionary-exercises-391e)
 
 [Learning Python-Basic course: Day 22, String Methods Part-1](https://dev.to/aatmaj/learning-python-basic-course-day-22-string-methods-part-1-9j8)
+
+[Learning Python-Basic course: Day 23, String Methods Part-2](https://dev.to/aatmaj/day-23-fi9)
+
+[Learning Python-Basic course: Day 24, String Methods Part-3](https://dev.to/aatmaj/learning-python-basic-course-day-24-string-methods-part-3-1mg9)
+
+[Learning Python-Basic course: Day 25, Summary of the basic course.](https://dev.to/aatmaj/learning-python-basic-course-day-25-summary-of-the-basic-course-563j)
