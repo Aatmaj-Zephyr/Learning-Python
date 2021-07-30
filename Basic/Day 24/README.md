@@ -1,4 +1,4 @@
-  [Learning Python-Basic course: Day 24, String Methods Part-3(https://dev.to/aatmaj/learning-python-basic-course-day-24-string-methods-part-3-1mg9)
+#  [Learning Python-Basic course: Day 24, String Methods Part-3](https://dev.to/aatmaj/learning-python-basic-course-day-24-string-methods-part-3-1mg9)
 
 Originally published on the dev.t platform [here](https://dev.to/aatmaj/learning-python-basic-course-day-24-string-methods-part-3-1mg9)
 
