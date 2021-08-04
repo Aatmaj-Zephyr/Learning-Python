@@ -110,3 +110,7 @@ ____
 [Learning Python-Basic course: Day 24, String Methods Part-3](https://dev.to/aatmaj/learning-python-basic-course-day-24-string-methods-part-3-1mg9)
 
 [Learning Python-Basic course: Day 25, Summary of the basic course.](https://dev.to/aatmaj/learning-python-basic-course-day-25-summary-of-the-basic-course-563j)
+
+____
+
+[Learning Python- Intermediate course: Day 1, User defined functions](https://dev.to/aatmaj/learning-python-intermediate-course-day-1-user-defined-functions-1kg7)
