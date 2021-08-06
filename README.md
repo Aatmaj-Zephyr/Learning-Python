@@ -116,3 +116,5 @@ ____
 [Learning Python- Intermediate course: Day 1, User defined functions](https://dev.to/aatmaj/learning-python-intermediate-course-day-1-user-defined-functions-1kg7)
 
 [Learning Python- Intermediate course: Day 2, returning values from methods](https://dev.to/aatmaj/learning-python-intermediate-course-day-2-returning-values-from-methods-4bhn)
+
+[Learning Python- Intermediate course: Day 3, Recursion in Python](https://dev.to/aatmaj/learning-python-intermediate-course-day-3-recursion-in-python-41ff)
