@@ -57,7 +57,7 @@ ValueError: n must be a non-negative integer
 1.4142135623730951
 >>> math.sin(a) # trigoonomatric functions
 0.9092974268256817
->>> math.atan(a) # hyperbolic trigonometric functions
+>>> math.atan(a) # inverse trigonometric functions
 1.1071487177940904
 >>> math.degrees(a) # convert to degrees
 114.59155902616465
