@@ -122,3 +122,5 @@ ____
 [Learning Python- Intermediate course: Day 4, Summary of the week, Guidelines for Recursion and high-level questions.](https://dev.to/aatmaj/learning-python-intermediate-course-day-4-summary-of-the-week-guidelines-for-recursion-and-high-level-questions-445)
 
 [Learning Python- Intermediate course: Day 5, Exploring the math module](https://dev.to/aatmaj/learning-python-intermediate-course-day-5-exploring-the-math-module-5alo)
+
+[Learning Python- Intermediate course: Day 6, Math Exercises](https://dev.to/aatmaj/learning-python-intermediate-course-day-6-math-exercises-12ge)
