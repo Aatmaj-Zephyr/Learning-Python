@@ -126,3 +126,5 @@ ____
 [Learning Python- Intermediate course: Day 6, Math Exercises](https://dev.to/aatmaj/learning-python-intermediate-course-day-6-math-exercises-12ge)
 
 [Learning Python- Intermediate course: Day 7, Making Python modules](https://dev.to/aatmaj/learning-python-intermediate-course-day-7-making-python-modules-kmf)
+
+[Learning Python- Intermediate course: Day 8, Summary of the week and nested Modules](https://dev.to/aatmaj/learning-python-intermediate-course-day-8-summary-of-the-week-and-nested-modules-j3d)
