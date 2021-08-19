@@ -104,6 +104,7 @@ print(randomlist)
 ```python
 import random as rd
 randomlist = rd.sample([2,3,5,7,11,13,17], 5)
+#Here the sample returns a random number from the list of prime numbers provided.
 print(randomlist)
 ```
 ```
