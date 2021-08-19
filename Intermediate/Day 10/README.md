@@ -24,10 +24,7 @@ We can convert a complex number to polar form using the `polar()` and back into 
 ```python
 import cmath
 z = complex(1,1)
-  
-
 a = cmath.polar(z)
-
 print ("The polar complex number is : ",end="")
 print (a) # returns a tuple
 z2= cmath.rect(a[0],a[1])
