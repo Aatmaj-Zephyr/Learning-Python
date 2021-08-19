@@ -130,3 +130,5 @@ ____
 [Learning Python- Intermediate course: Day 8, Summary of the week and nested Modules](https://dev.to/aatmaj/learning-python-intermediate-course-day-8-summary-of-the-week-and-nested-modules-j3d)
 
 [Learning Python- Intermediate course: Day 9, Complex numbers part 1](https://dev.to/aatmaj/learning-python-intermediate-course-day-9-complex-numbers-part-1-2pkh)
+
+[Learning Python- Intermediate course: Day 10, Complex numbers part 2](https://dev.to/aatmaj/learning-python-intermediate-course-day-10-complex-numbers-part-2-48jh)
