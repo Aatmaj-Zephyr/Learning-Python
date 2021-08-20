@@ -59,7 +59,7 @@ Typing 'random' every time is just a waste right? We can shorten up the code by 
 
 `import random as rd` 
 
-SO now every time instead of writing `random`, we can just write `rd`
+So now every time instead of writing `random`, we can just write `rd`
 Example-
 ```python
 import random as rd
