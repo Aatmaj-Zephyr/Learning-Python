@@ -134,3 +134,5 @@ ____
 [Learning Python- Intermediate course: Day 10, Complex numbers part 2](https://dev.to/aatmaj/learning-python-intermediate-course-day-10-complex-numbers-part-2-48jh)
 
 [Learning Python- Intermediate course: Day 11, Random numbers](https://dev.to/aatmaj/learning-python-intermediate-course-day-11-random-numbers-5cnj)
+
+[Learning Python- Intermediate course: Day 12, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-12-random-numbers-2097)
