@@ -1,3 +1,7 @@
+# [Learning Python- Intermediate course: Day 13, The Statistics Module](https://dev.to/aatmaj/learning-python-intermediate-course-day-13-the-statistics-module-2bb5)
+
+Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-13-the-statistics-module-2bb5)
+
 Today we will cover the `statistics` module in python.
 ---
 ____
