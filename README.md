@@ -138,3 +138,5 @@ ____
 [Learning Python- Intermediate course: Day 12, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-12-random-numbers-2097)
 
 [Learning Python- Intermediate course: Day 13, The Statistics Module](https://dev.to/aatmaj/learning-python-intermediate-course-day-13-the-statistics-module-2bb5)
+
+[Learning Python- Intermediate course: Day 14, Introduction to the Decimal module](https://dev.to/aatmaj/learning-python-intermediate-course-day-14-introduction-to-the-decimal-module-4ngc)
