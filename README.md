@@ -140,3 +140,5 @@ ____
 [Learning Python- Intermediate course: Day 13, The Statistics Module](https://dev.to/aatmaj/learning-python-intermediate-course-day-13-the-statistics-module-2bb5)
 
 [Learning Python- Intermediate course: Day 14, Introduction to the Decimal module](https://dev.to/aatmaj/learning-python-intermediate-course-day-14-introduction-to-the-decimal-module-4ngc)
+
+[Learning Python- Intermediate course: Day 15, Complete guide to the fractions module](https://dev.to/aatmaj/learning-python-intermediate-course-day-15-complete-guide-to-the-fractions-module-4ki8)
