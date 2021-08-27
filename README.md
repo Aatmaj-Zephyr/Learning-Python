@@ -40,11 +40,13 @@ B) Intermediate-
 
 1) User defined functions
 
-2) GUI and design
+2) Numeric and Mathematical Modules
 
-3) File handling in Python
+3) GUI and design
 
-4) OOP techniques
+4) File handling in Python
+
+5) OOP techniques
 
 c) Advanced-
 
