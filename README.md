@@ -146,3 +146,5 @@ ____
 [Learning Python- Intermediate course: Day 15, Complete guide to the fractions module](https://dev.to/aatmaj/learning-python-intermediate-course-day-15-complete-guide-to-the-fractions-module-4ki8)
 
 [Learning Python- Intermediate course: Day 16, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-16-summary-of-the-week-17m1)
+
+[Learning Python- Intermediate course: Day 17, Tkinter — a fast and easy way to create GUI applications.](https://dev.to/aatmaj/learning-python-intermediate-course-day-17-tkinter-a-fast-and-easy-way-to-create-gui-applications-1if)
