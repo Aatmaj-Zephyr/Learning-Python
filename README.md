@@ -150,3 +150,5 @@ ____
 [Learning Python- Intermediate course: Day 17, Tkinter — a fast and easy way to create GUI applications.](https://dev.to/aatmaj/learning-python-intermediate-course-day-17-tkinter-a-fast-and-easy-way-to-create-gui-applications-1if)
 
 [Learning Python- Intermediate course: Day 18, Tkinter — Types of Widgets part 1](https://dev.to/aatmaj/learning-python-intermediate-course-day-18-tkinter-types-of-widgets-part-1-2i6h)
+
+[Learning Python- Intermediate course: Day 19, Tkinter — Types of Widgets part 2][(https://dev.to/aatmaj/learning-python-intermediate-course-day-19-tkinter-types-of-widgets-part-2-2efp)
