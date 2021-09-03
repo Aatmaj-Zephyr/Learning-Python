@@ -52,7 +52,7 @@ Menu button is a drop-down menu. We can select one or more options from the drop
 
 - Scale
 
-The Scale widget is a very interesting widget. Ii is used to create a graphical slider which the user can move around for the input.
+The Scale widget is a very interesting widget. It is used to create a graphical slider which the user can move around for the input.
 We can control the minimum and maximum values along with the resolution of the scale. It provides a 'continues' alternative to 'discrete' radio buttons. Which means rather then having to specify 50 checkboxes we can just have one slider. It is useful over the Entry widget when the user is forced to select only one value from the given range of values. 
 
 
