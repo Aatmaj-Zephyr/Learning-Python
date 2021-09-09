@@ -156,3 +156,5 @@ ____
 [Learning Python- Intermediate course: Day 20, Tkinter — Types of Widgets part 3](https://dev.to/aatmaj/learning-python-intermediate-course-day-20-tkinter-types-of-widgets-part-3-236h)
 
 [Learning Python- Intermediate course: Day 21, Hello world in Tkinter !](https://dev.to/aatmaj/learning-python-intermediate-course-day-21-hello-world-in-tkinter-g1n)
+
+[Learning Python- Intermediate course: Day 22, Bold or Italics !](https://dev.to/aatmaj/learning-python-intermediate-course-day-22-bold-or-italics-19hg)
