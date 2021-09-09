@@ -151,7 +151,7 @@ ____
 
 [Learning Python- Intermediate course: Day 18, Tkinter — Types of Widgets part 1](https://dev.to/aatmaj/learning-python-intermediate-course-day-18-tkinter-types-of-widgets-part-1-2i6h)
 
-[Learning Python- Intermediate course: Day 19, Tkinter — Types of Widgets part 2][(https://dev.to/aatmaj/learning-python-intermediate-course-day-19-tkinter-types-of-widgets-part-2-2efp)
+[Learning Python- Intermediate course: Day 19, Tkinter — Types of Widgets part 2](https://dev.to/aatmaj/learning-python-intermediate-course-day-19-tkinter-types-of-widgets-part-2-2efp)
 
 [Learning Python- Intermediate course: Day 20, Tkinter — Types of Widgets part 3](https://dev.to/aatmaj/learning-python-intermediate-course-day-20-tkinter-types-of-widgets-part-3-236h)
 
