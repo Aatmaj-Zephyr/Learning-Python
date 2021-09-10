@@ -6,6 +6,8 @@ We will study radio-buttons in Tkinter in this part
 ---
 ____
 Today we will create another simple program. The layout will consist of one label and four radio-buttons. The user has to choose any one of the four buttons and choose the favorite programming language.
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qsj3kipt7kffkea7lm79.png)
  
 
@@ -95,6 +97,7 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 AttributeError: 'int' object has no attribute 'set'
 ```
+
 [Answer](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/a70d927e9a9551d32979e7929689b9465f9e12dd/Intermediate/Day%2023/Exercise%20solution/Exercise%201.md)
 
 ## The final program.
@@ -135,12 +138,20 @@ Radiobutton4.pack()
 master.mainloop()                  
 ```
 #### Default value is not present.
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cf3f2l0lvzjmkaatekbt.png)
+
+
 If you wanted to have any default value, the you need to set v to 0 (for 'Python'.., etc) while initializing, and run the  `showchoice()` function once. If you do not run the `showchoice()` function, then Python will be selected default but the label won't show the value.
 
 
 ### Choosing only one among all....
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iln9ozktxek2xdfdtjdk.png)
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dk3id3wppbuzpy6um10w.png)
  
 _____
