@@ -1,4 +1,4 @@
-Portion for the second (Intermediate course)-
+## Portion for the second (Intermediate course)-
 1) User defined functions
 2) Numeric and Mathematical Modules
 3) GUI and design
