@@ -158,3 +158,5 @@ ____
 [Learning Python- Intermediate course: Day 21, Hello world in Tkinter !](https://dev.to/aatmaj/learning-python-intermediate-course-day-21-hello-world-in-tkinter-g1n)
 
 [Learning Python- Intermediate course: Day 22, Bold or Italics !](https://dev.to/aatmaj/learning-python-intermediate-course-day-22-bold-or-italics-19hg)
+
+[Learning Python- Intermediate course: Day 23, IntVar() and Radio-buttons.](https://dev.to/aatmaj/learning-python-intermediate-course-day-23-intvar-and-radio-buttons-164k)
