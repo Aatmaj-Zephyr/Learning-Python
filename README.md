@@ -160,3 +160,5 @@ ____
 [Learning Python- Intermediate course: Day 22, Bold or Italics !](https://dev.to/aatmaj/learning-python-intermediate-course-day-22-bold-or-italics-19hg)
 
 [Learning Python- Intermediate course: Day 23, IntVar() and Radio-buttons.](https://dev.to/aatmaj/learning-python-intermediate-course-day-23-intvar-and-radio-buttons-164k)
+
+[Learning Python- Intermediate course: Day 24, Summary of the week and Adding Colors](https://dev.to/aatmaj/learning-python-intermediate-course-day-24-summary-of-the-week-and-adding-colors-238g)
