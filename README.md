@@ -164,3 +164,5 @@ ____
 [Learning Python- Intermediate course: Day 24, Summary of the week and Adding Colors](https://dev.to/aatmaj/learning-python-intermediate-course-day-24-summary-of-the-week-and-adding-colors-238g)
 
 [Learning Python- Intermediate course: Day 25, Buttons, Entry and Textboxes](https://dev.to/aatmaj/learning-python-intermediate-course-day-25-buttons-entry-and-textboxes-2d0n)
+
+[Learning Python- Intermediate course: Day 26, Password Manager-Tkinter](https://dev.to/aatmaj/learning-python-intermediate-course-day-26-password-manager-tkinter-17p9)
