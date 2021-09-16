@@ -166,3 +166,5 @@ ____
 [Learning Python- Intermediate course: Day 25, Buttons, Entry and Textboxes](https://dev.to/aatmaj/learning-python-intermediate-course-day-25-buttons-entry-and-textboxes-2d0n)
 
 [Learning Python- Intermediate course: Day 26, Password Manager-Tkinter](https://dev.to/aatmaj/learning-python-intermediate-course-day-26-password-manager-tkinter-17p9)
+
+[Learning Python- Intermediate course: Day 27, Entry keypress event](https://dev.to/aatmaj/learning-python-intermediate-course-day-27-entry-keypress-event-5d15)
