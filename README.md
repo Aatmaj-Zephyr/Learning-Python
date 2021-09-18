@@ -168,3 +168,5 @@ ____
 [Learning Python- Intermediate course: Day 26, Password Manager-Tkinter](https://dev.to/aatmaj/learning-python-intermediate-course-day-26-password-manager-tkinter-17p9)
 
 [Learning Python- Intermediate course: Day 27, Entry keypress event](https://dev.to/aatmaj/learning-python-intermediate-course-day-27-entry-keypress-event-5d15)
+
+[Learning Python- Intermediate course: Day 28, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-28-summary-of-the-week-1ppf)
