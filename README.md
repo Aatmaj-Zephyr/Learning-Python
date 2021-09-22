@@ -170,3 +170,5 @@ ____
 [Learning Python- Intermediate course: Day 27, Entry keypress event](https://dev.to/aatmaj/learning-python-intermediate-course-day-27-entry-keypress-event-5d15)
 
 [Learning Python- Intermediate course: Day 28, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-28-summary-of-the-week-1ppf)
+
+[Learning Python- Intermediate course: Day 29, Sliders in Tkinter](https://dev.to/aatmaj/learning-python-intermediate-course-day-29-sliders-in-tkinter-5a6d)
