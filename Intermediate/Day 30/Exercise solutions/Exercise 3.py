@@ -16,4 +16,3 @@ def show():
 showbutton=Button(frame,text="show",command=show)
 showbutton.pack()
 mainloop()
-frame.mainloop()
