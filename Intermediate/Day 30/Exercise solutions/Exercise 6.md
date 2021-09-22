@@ -1,0 +1,1 @@
+Yes. by using `len(item)` instead of 6, we caan make the program immune to change. This means that even if the `items` needs to be changes either in the code or dynamically, we do not need to change the value of the height parameter each time. This flexibility goes a long way in making the program more extensible.
