@@ -106,6 +106,7 @@ mainloop()
  
 ### Setting the interval length
 We can display the values of the sliders using the `tickinterval` property. We can adjust the interval values of the slider using the `tickinterval` attribute.  For example, setting the value to 10 equal will show the result as 
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1gvwrc5ojmu4cnp7id5.png)
 
 While setting the value to 1 will show the entire range
