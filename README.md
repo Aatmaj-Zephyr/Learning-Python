@@ -172,3 +172,5 @@ ____
 [Learning Python- Intermediate course: Day 28, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-28-summary-of-the-week-1ppf)
 
 [Learning Python- Intermediate course: Day 29, Sliders in Tkinter](https://dev.to/aatmaj/learning-python-intermediate-course-day-29-sliders-in-tkinter-5a6d)
+
+[Learning Python- Intermediate course: Day 30, Spinbox and Labelbox](https://dev.to/aatmaj/learning-python-intermediate-course-day-30-spinbox-and-labelbox-1b35)
