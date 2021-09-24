@@ -174,3 +174,5 @@ ____
 [Learning Python- Intermediate course: Day 29, Sliders in Tkinter](https://dev.to/aatmaj/learning-python-intermediate-course-day-29-sliders-in-tkinter-5a6d)
 
 [Learning Python- Intermediate course: Day 30, Spinbox and Labelbox](https://dev.to/aatmaj/learning-python-intermediate-course-day-30-spinbox-and-labelbox-1b35)
+
+[Learning Python- Intermediate course: Day 31, Coordinate positions](https://dev.to/aatmaj/learning-python-intermediate-course-day-31-coordinate-positions-4eah)
