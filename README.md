@@ -176,3 +176,5 @@ ____
 [Learning Python- Intermediate course: Day 30, Spinbox and Labelbox](https://dev.to/aatmaj/learning-python-intermediate-course-day-30-spinbox-and-labelbox-1b35)
 
 [Learning Python- Intermediate course: Day 31, Coordinate positions](https://dev.to/aatmaj/learning-python-intermediate-course-day-31-coordinate-positions-4eah)
+
+[Learning Python- Intermediate course: Day 32, The Menubutton Widget](https://dev.to/aatmaj/learning-python-intermediate-course-day-32-the-menubutton-widget-4l0j)
