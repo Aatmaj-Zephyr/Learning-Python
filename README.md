@@ -178,3 +178,5 @@ ____
 [Learning Python- Intermediate course: Day 31, Coordinate positions](https://dev.to/aatmaj/learning-python-intermediate-course-day-31-coordinate-positions-4eah)
 
 [Learning Python- Intermediate course: Day 32, The Menubutton Widget](https://dev.to/aatmaj/learning-python-intermediate-course-day-32-the-menubutton-widget-4l0j)
+
+[Learning Python- Intermediate course: Day 33, The Menu Widget](https://dev.to/aatmaj/learning-python-intermediate-course-day-33-the-menu-widget-5g5l)
