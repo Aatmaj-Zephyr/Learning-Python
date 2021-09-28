@@ -1,0 +1,72 @@
+# E111 - (167) - indentation is not a multiple of 4
+# E112 - (8) - expected an indented block
+# E113 - (11) - unexpected indentation
+# E114 - (4) - indentation is not a multiple of 4 (comment)
+# E116 - (3) - unexpected indentation (comment)
+# E117 - (13) - over-indented
+# E121 - (1) - continuation line under-indented for hanging indent
+# E201 - (5) - whitespace after '{'
+# E202 - (4) - whitespace before ')'
+# E203 - (5) - whitespace before ':'
+# E211 - (50) - whitespace before '('
+# E222 - (3) - multiple spaces after operator
+# E225 - (736) - missing whitespace around operator
+# E226 - (196) - missing whitespace around arithmetic operator
+# E228 - (31) - missing whitespace around modulo operator
+# E231 - (600) - missing whitespace after ','
+# E241 - (4) - multiple spaces after ','
+# E251 - (29) - unexpected spaces around keyword / parameter equals
+# E261 - (119) - at least two spaces before inline comment
+# E262 - (88) - inline comment should start with '# '
+# E265 - (107) - block comment should start with '# '
+# E272 - (8) - multiple spaces before keyword
+# E302 - (27) - expected 2 blank lines, found 1
+# E305 - (38) - expected 2 blank lines after class or function definition, found 0
+# E501 - (39) - line too long (85 > 79 characters)
+# E703 - (2) - statement ends with a semicolon
+# E712 - (6) - comparison to True should be 'if cond is True:' or 'if cond:'
+# E722 - (15) - do not use bare 'except'
+# E999 - (18) - SyntaxError: invalid syntax
+# F401 - (2) - 'tkinter' imported but unused
+# F403 - (21) - 'from tkinter import *' used; unable to detect undefined names
+# F405 - (84) - 'Tk' may be undefined, or defined from star imports: tkinter
+# F821 - (13) - undefined name 'arr'
+# PLC0103 - (316) - Module name "Exercise 1" doesn't conform to snake_case naming style (invalid-name)
+# PLC0114 - (166) - Missing module docstring (missing-module-docstring)
+# PLC0116 - (46) - Missing function or method docstring (missing-function-docstring)
+# PLC0121 - (9) - Comparison 'isprime == True' should be 'isprime is True' if checking for the singleton value True, or 'isprime' if testing for truthiness (singleton-comparison)
+# PLC0200 - (17) - Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+# PLC0301 - (8) - Line too long (113/100) (line-too-long)
+# PLC0303 - (75) - Trailing whitespace (trailing-whitespace)
+# PLC0305 - (3) - Trailing newlines (trailing-newlines)
+# PLC0325 - (95) - Unnecessary parens after 'if' keyword (superfluous-parens)
+# PLE0602 - (13) - Undefined variable 'arr' (undefined-variable)
+# PLE1101 - (2) - Instance of 'str' has no 'append' member (no-member)
+# PLE1111 - (1) - Assigning result of a function call, where the function has no return (assignment-from-no-return)
+# PLR1703 - (1) - The if statement can be replaced with 'return bool(test)' (simplifiable-if-statement)
+# PLR1705 - (4) - Unnecessary "else" after "return" (no-else-return)
+# PLR1714 - (2) - Consider merging these comparisons with "in" to "a in ('a', 'e', 'i', 'o', 'u')" (consider-using-in)
+# PLR1723 - (4) - Unnecessary "else" after "break" (no-else-break)
+# PLW0105 - (7) - String statement has no effect (pointless-string-statement)
+# PLW0120 - (1) - Else clause on loop without a break statement (useless-else-on-loop)
+# PLW0301 - (2) - Unnecessary semicolon (unnecessary-semicolon)
+# PLW0311 - (220) - Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+# PLW0401 - (21) - Wildcard import tkinter (wildcard-import)
+# PLW0406 - (1) - Module import itself (import-self)
+# PLW0611 - (2) - Unused import tkinter (unused-import)
+# PLW0612 - (1) - Unused variable 'i' (unused-variable)
+# PLW0613 - (2) - Unused argument 'username' (unused-argument)
+# PLW0614 - (2777) - Unused import enum from wildcard import (unused-wildcard-import)
+# PLW0621 - (3) - Redefining name 'i' from outer scope (line 1) (redefined-outer-name)
+# PLW0622 - (1) - Redefining built-in 'str' (redefined-builtin)
+# PLW0702 - (15) - No exception type(s) specified (bare-except)
+# W291 - (76) - trailing whitespace
+# W293 - (11) - blank line contains whitespace
+# W391 - (3) - blank line at end of file
+# W605 - (62) - invalid escape sequence '\A'
+
+# PLE1102 form.geometry is not callable (not-callable)
+
+[flake8]
+ignore =
+    *.py E111 E112 E113 E114 E116 E117 E121 E201 E202 E203 E211 E222 E225 E226 E228 E231 E241 E251 E261 E262 E265 E272 E302 E305 E501 E703 E712 E722 E999 F401 F403 F405 F821 PLC0103 PLC0114 PLC0116 PLC0121 PLC0200 PLC0301 PLC0303 PLC0305 PLC0325 PLE0602 PLE1101 PLE1111 PLR1703 PLR1705 PLR1714 PLR1723 PLW0105 PLW0120 PLW0301 PLW0311 PLW0401 PLW0406 PLW0611 PLW0612 PLW0613 PLW0614 PLW0621 PLW0622 PLW0702 W291 W293 W391 W605 PLE1102

@@ -1,0 +1,27 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  perl-job:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    name: Flake8
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install deps
+        run: |
+          python --version
+          pip install -r requirements.txt
+          pip install flake8 flake8-pylint
+
+      - name: Run flake8
+        run: |
+            flake8 .
