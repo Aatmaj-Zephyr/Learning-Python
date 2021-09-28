@@ -48,7 +48,7 @@ The PanedWindow widget is a resizable frame widget. It contains one or more chil
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hcwtxzo9sk16mcm6kzu1.png)
  
 - LabelFrame
-LabelFrame is also a type of frame, but we can add borders to the widhets.
+LabelFrame is also a type of frame, but we can add borders to the widgets.
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3gvqihl1kkebol8bm9vn.png)
 
