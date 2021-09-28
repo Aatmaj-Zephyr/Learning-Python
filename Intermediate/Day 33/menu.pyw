@@ -1,0 +1,25 @@
+from tkinter import *
+master = Tk()  
+menubar = Menu(master)
+
+file = Menu(menubar, tearoff=0)  
+file.add_command(label="New")  
+file.add_command(label="Open")  
+file.add_command(label="Save")  
+file.add_command(label="Save as")
+file.add_separator()
+file.add_command(label="Exit")  
+menubar.add_cascade(label="File", menu=file)
+
+edit = Menu(menubar, tearoff=0)  
+edit.add_command(label="Undo")  
+edit.add_separator()  
+edit.add_command(label="Cut")  
+edit.add_command(label="Copy")  
+edit.add_command(label="Paste")  
+edit.add_command(label="Delete")  
+edit.add_command(label="Select All")  
+menubar.add_cascade(label="Edit", menu=edit)
+
+master.config(menu=menubar)  
+master.mainloop()  
