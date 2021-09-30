@@ -1,6 +1,6 @@
 # [Learning Python- Intermediate course: Day 34, Toplevel, Panedwindow and Message widgets](https://dev.to/aatmaj/learning-python-intermediate-course-day-34-toplevel-panedwindow-and-message-widgets-44l6)
 
-Originally published on the dev.to plkatform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-34-toplevel-panedwindow-and-message-widgets-44l6)
+Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-34-toplevel-panedwindow-and-message-widgets-44l6)
 
 Today we will cover a brief about the Top-level, paned-window and message widgets.
 ---
