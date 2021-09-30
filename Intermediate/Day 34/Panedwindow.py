@@ -6,5 +6,4 @@ lbl=Label(text="paned window")
 win.add(lbl)
 win.pack()
   
-  
 mainloop() 
