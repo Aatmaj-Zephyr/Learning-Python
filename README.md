@@ -180,3 +180,5 @@ ____
 [Learning Python- Intermediate course: Day 32, The Menubutton Widget](https://dev.to/aatmaj/learning-python-intermediate-course-day-32-the-menubutton-widget-4l0j)
 
 [Learning Python- Intermediate course: Day 33, The Menu Widget](https://dev.to/aatmaj/learning-python-intermediate-course-day-33-the-menu-widget-5g5l)
+
+[Learning Python- Intermediate course: Day 34, Toplevel, Panedwindow and Message widgets](https://dev.to/aatmaj/learning-python-intermediate-course-day-34-toplevel-panedwindow-and-message-widgets-44l6)
