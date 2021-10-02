@@ -184,3 +184,5 @@ ____
 [Learning Python- Intermediate course: Day 34, Toplevel, Panedwindow and Message widgets](https://dev.to/aatmaj/learning-python-intermediate-course-day-34-toplevel-panedwindow-and-message-widgets-44l6)
 
 [Learning Python- Intermediate course: Day 35, MessageBox widget](https://dev.to/aatmaj/learning-python-intermediate-course-day-35-messagebox-widget-19c8)
+
+[Learning Python- Intermediate course: Day 36, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-36-summary-of-the-week-57lm)
