@@ -186,3 +186,5 @@ ____
 [Learning Python- Intermediate course: Day 35, MessageBox widget](https://dev.to/aatmaj/learning-python-intermediate-course-day-35-messagebox-widget-19c8)
 
 [Learning Python- Intermediate course: Day 36, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-36-summary-of-the-week-57lm)
+
+[Learning Python- Intermediate course: Day 37, File handling in Python](https://dev.to/aatmaj/learning-python-intermediate-course-day-37-file-handling-in-python-1pih)
