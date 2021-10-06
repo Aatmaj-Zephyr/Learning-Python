@@ -1,6 +1,6 @@
-# [Learning Python- Intermediate course: Day 36, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-36-summary-of-the-week-57lm/edit)
+# [Learning Python- Intermediate course: Day 36, Summary of the week](https://dev.to/aatmaj/learning-python-intermediate-course-day-36-summary-of-the-week-57lm)
 
-Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-36-summary-of-the-week-57lm/edit)
+Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-36-summary-of-the-week-57lm)
 
 ### Summary of the week
 - [Day 33](https://dev.to/aatmaj/learning-python-intermediate-course-day-33-the-menu-widget-5g5l) We learnt about the menu widget in Python. The menu widget is used to create dropdown menus for application commands. 
