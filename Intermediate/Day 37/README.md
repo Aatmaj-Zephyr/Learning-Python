@@ -1,3 +1,7 @@
+# [Learning Python- Intermediate course: Day 37, File handling in Python](https://dev.to/aatmaj/learning-python-intermediate-course-day-37-file-handling-in-python-1pih)
+
+Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-37-file-handling-in-python-1pih)
+
 Today we cover File-handling in Python in a lightning fast speed
 ---
 ____
