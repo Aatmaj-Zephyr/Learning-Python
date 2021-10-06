@@ -1,0 +1,5 @@
+file = open('myfile.txt','a')
+file.write("A Quick brown fox jumps over the lazy dog.")
+file.write("\n")
+file.write("Welcome to PYTHON Programming")
+file.close()
