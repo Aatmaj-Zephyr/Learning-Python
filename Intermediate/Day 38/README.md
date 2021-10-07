@@ -111,7 +111,7 @@ TypeError: printname() takes 0 positional arguments but 1 was given
 
 ```
 
-
+_____
 ###### Tired of writing the name of the class every time? Well use the `self` keyword
 The `self` keyword can be used in place of the entire class name
 ```python
