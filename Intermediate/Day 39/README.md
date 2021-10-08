@@ -1,6 +1,6 @@
 # [Learning Python- Intermediate course: Day 39, OOP-Constructor __init__](https://dev.to/aatmaj/learning-python-intermediate-course-day-38-oop-constructor-init-2lhj)
 
-Originally opublished on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-38-oop-constructor-init-2lhj)
+Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-38-oop-constructor-init-2lhj)
 
 Today let us check out class constructors in Python
 ---
