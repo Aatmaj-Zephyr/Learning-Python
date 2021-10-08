@@ -41,7 +41,7 @@ TypeError: __init__() takes 0 positional arguments but 1 was given
 ```
 ___
 The `__init__` method runs once class is instantiated. 
-It can be called from outsoide the class too.
+It can be called from outside the class too.
 ```python
 class sample:
    def  __init__(self):
