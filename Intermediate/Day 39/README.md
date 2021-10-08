@@ -7,7 +7,7 @@ Today let us check out class constructors in Python
 ____
 ### Constructors in Python
 Constructors are class methods which are used to set the class parameters a the time of instantiation. These methods are run automatically when the class is instantiated. 
-> The task of constructors is to initialize(assign values) to the data members of the class when an object of class is created. A constructor can optionally accept arguments as well, just like a regular function.
+> The task of constructors is to initialize (assign values) to the data members of the class when an object of class is created. A constructor can optionally accept arguments as well, just like a regular function.
 
 #### Syntax
 The constructor is created by the `__init__` keyword.
