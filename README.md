@@ -192,3 +192,5 @@ ____
 [Learning Python- Intermediate course: Day 38, OOP](https://dev.to/aatmaj/learning-python-intermediate-course-day-38-oop-197)
 
 [Learning Python- Intermediate course: Day 39, OOP-Constructor](https://dev.to/aatmaj/learning-python-intermediate-course-day-38-oop-constructor-init-2lhj)
+
+[Learning Python- Intermediate course: Day 40, Summary of the week and more about OOP](https://dev.to/aatmaj/learning-python-intermediate-course-day-40-summary-of-the-week-and-more-about-oop-5gap)
