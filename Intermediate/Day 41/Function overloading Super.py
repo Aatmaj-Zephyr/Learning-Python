@@ -12,6 +12,7 @@ class sample2(sample):
     def __init__(self):
      super().__init__()
     def fun(self):
+        super().fun()
         print(self.a+self.b)
         
 mysample2=sample2()
