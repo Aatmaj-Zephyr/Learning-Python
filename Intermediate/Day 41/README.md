@@ -47,8 +47,7 @@ Once the class `sample2` inherits `sample`, it can use it's attributes (like her
 The derived class `sample2` can also use the functions declared in the master class. This is how the function `fun` could be used  and run successfully.
 
 
-I hope you do not have any more doubts, if you have, please feel free to post them in the [comments on Dev.to](https://dev.to/aatmaj/learning-python-intermediate-course-day-41-inheritance-in-python-53la)
-
+I hope you do not have any more doubts, if you have, please feel free to post them in the comments on [Dev.to here](https://dev.to/aatmaj/learning-python-intermediate-course-day-41-inheritance-in-python-53la)
 
 
 ____
@@ -107,7 +106,57 @@ mysample2.fun2()
 
 Using the super keyword, we can manage the constructors.
 
+Note, even though constructors are not inherited, the arguments of the constructors in both the classes must match. Example shown below
 
+```python
+class sample():
+ a=2
+ b=3
+ def __init__(self,var):
+     self.a=100
+     self.b=50
+ def fun(self):
+     print("Hello world")
+
+class sample2(sample):
+    def fun2(self):
+        print(self.a+self.b)
+
+mysample2=sample2()
+mysample2.fun()
+mysample2.fun2()
+```
+```
+Traceback (most recent call last):
+  File "main.py", line 14, in <module>
+    mysample2=sample2()
+TypeError: __init__() missing 1 required positional argument: 'var'
+```
+...
+```python
+class sample():
+ a=2
+ b=3
+ def __init__(self,var):
+     self.a=100
+     self.b=50
+ def fun(self):
+     print("Hello world")
+
+class sample2(sample):
+    def fun2(self):
+        print(self.a+self.b)
+
+mysample2=sample2(3)
+mysample2.fun()
+mysample2.fun2()
+```
+```
+Hello world
+150
+
+```
+____
 **Exercise** What is the output of the following program? and why?
 ```python
 class sample():
@@ -203,3 +252,4 @@ Hello world
 ____
 
 So friends that was all for today. Thank you and hope you are enjoying....
+
