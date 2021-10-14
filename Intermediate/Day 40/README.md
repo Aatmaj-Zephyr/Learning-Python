@@ -72,4 +72,4 @@ Next week plan-
 
 - Inheritance
 - Polymorphism
-- Deadly triangle of death
+- Deadly Diamond of death
