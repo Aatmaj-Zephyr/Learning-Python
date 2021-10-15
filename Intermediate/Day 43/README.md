@@ -113,7 +113,8 @@ I am a gorrilla
 ```
 If gorilla is passed first, then the `cry()` method and constructor of gorilla class will run. And if chimpanzee is passed first, then the cry and constructor of chimpanzee class will be run.
 
-
+#### Abstract classes
+In the above example, ape was the class which needn't be instantiated, and could have been made an abstract class. But Python doesn't support abstract classes in an built way. However, modules can be used to implement abstractions.
 
 ### abc module
 The abc (Abstract Base Classes) is a inbuilt Python module which enables the usage of abstract classes and inheritance in Python.
