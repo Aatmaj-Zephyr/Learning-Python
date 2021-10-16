@@ -200,3 +200,5 @@ ____
 [Learning Python- Intermediate course: Day 42, Polymorphism.](https://dev.to/aatmaj/learning-python-intermediate-course-day-42-polymorphism-a61)
 
 [Learning Python- Intermediate course: Day 43, DDD and more on OOP](https://dev.to/aatmaj/learning-python-intermediate-course-day-43-ddd-and-more-on-oop-2npf)
+
+[Learning Python- Intermediate course: Day 44, Summary of the week, examples and exercises](https://dev.to/aatmaj/learning-python-intermediate-course-day-44-summary-of-the-week-examples-and-exercises-3lfg)
