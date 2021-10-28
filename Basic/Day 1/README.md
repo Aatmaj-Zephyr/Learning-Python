@@ -79,6 +79,7 @@ Another alternative way of running Python is by searching IDLE (in win search-ba
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dzdqf8n5lbxaq12a7jbn.png)
 
 This opens up the Python IDLE
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41gyv2gegsxbi6wiueku.png)
 
 Python can also be run on online web based interpreters like [this one.](https://www.onlinegdb.com/online_python_compiler)
