@@ -5,11 +5,15 @@ Originally published on dev.to [here](https://dev.to/aatmaj/learning-python-basi
 **Introduction to Python**
 Python is a general-purpose programming language. It is best suited for 'data' related  applications like Data Mining, Machine learning and data extraction. But we can also use it for a variety of other purposes. Nowadays, any application, from websites to Mobile applications can be built using Python. 
 You might be surprised to know that Python totally different from C++ or Java. Python doesnt have those spooky curly brackets. Gone! No trailing semicolons and no header files! Python code is designed to be as easy and simple as possible. Small code yet great results. Why, the hello world program in Python is just a one liner!
+
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/auokedxr3wihn9y65784.png) 
 
 What's more, Python doesnt have data types! You can store an integer, string or character in the same variable! This is what makes Python a really mysterious language. 
 
 So, next time you right Python code, dont' forget to thank Guido Van Rossum. This Dutch programmer invented the Python language. It was he who gave Python this unique and mysterious name.
+
 ![guido-van-rossum-2](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cvjcfk5zd8u7jbpnfiwm.jpg)
  
 
@@ -42,24 +46,36 @@ Before we begin learning Python, we must set it up on our devices.
 **Steps for setting up Python:**
 
 1) *Download Python from [here](https://www.python.org/downloads/)
+
+
  ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/152igvqfhthgsqbndf81.png)*
     
 2) *Install Python with standered installation process.*
 Try to avoid making any customization in it. 
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/44pvb40nm5omyl0ttmqp.png)
+
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a9tkvx1wj781l155b8l4.png)
  
 3) *Opening IDLE/IDE*
 
-After installing Python, you can use IDE's like [PyCharm](https://www.jetbrains.com/pycharm/) or any [others](https://www.programiz.com/python-programming/ide). ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0k1uvb11d1mvftmr9jo.png)
+After installing Python, you can use IDE's like [PyCharm](https://www.jetbrains.com/pycharm/) or any [others](https://www.programiz.com/python-programming/ide). 
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0k1uvb11d1mvftmr9jo.png)
  
 
 Python can also be run on the command prompt by typing the command  
  "py"
+ 
+ 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/af4muik7ayqfi7v0vqck.png)
 
 Another alternative way of running Python is by searching IDLE (in win search-bar) according to the version you downloaded
  search "IDLE (Python 3.9 64-bit)"
+ 
+ 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dzdqf8n5lbxaq12a7jbn.png)
 
 This opens up the Python IDLE
