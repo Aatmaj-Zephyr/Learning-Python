@@ -1,4 +1,6 @@
- # Learning-Python 👍 
+![](https://user-images.githubusercontent.com/83284294/141246159-7e3f77d4-49fd-4590-921d-24c77c109d76.jpg)
+
+# Learning-Python 👍 
 Hi,🤟 in this repo you will find all material required for the [learning python course!](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) 😁
 All material from sample codes to exercise solutions can be found here. 😇
 For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or Gmail. 😊
