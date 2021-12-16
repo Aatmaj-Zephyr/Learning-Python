@@ -1,4 +1,4 @@
-names=["Aatmaj", "123", "zephyr","163","1723"]
+names = ["Aatmaj", "123", "zephyr", "163", "1723"]
 #1
 print("Names in the list :")
 print(names)
@@ -14,7 +14,7 @@ names.append("A")
 print("No. of values in the list = ", len(names))
 print(names)
 print("New list as last names")
-lastnames=["L","M","N"]
+lastnames = ["L", "M", "N"]
 print(lastnames)
 print("names.extend(lastnames)")
 names.extend(lastnames)
