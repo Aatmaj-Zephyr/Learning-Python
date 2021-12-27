@@ -1,4 +1,4 @@
-[Learning Python-Basic course: Day 16, Fractal lists and other questions](https://dev.to/aatmaj/learning-python-basic-course-day-16-fractal-lists-and-other-questions-1ca6)
+# [Learning Python-Basic course: Day 16, Fractal lists and other questions](https://dev.to/aatmaj/learning-python-basic-course-day-16-fractal-lists-and-other-questions-1ca6)
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-basic-course-day-16-fractal-lists-and-other-questions-1ca6)
 
