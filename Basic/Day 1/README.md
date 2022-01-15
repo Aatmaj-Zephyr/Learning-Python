@@ -10,6 +10,10 @@ You might be surprised to know that Python totally different from C++ or Java. P
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/auokedxr3wihn9y65784.png) 
 
+```python
+print("hello world")
+```
+
 What's more, Python doesnt have data types! You can store an integer, string or character in the same variable! This is what makes Python a really mysterious language. 
 
 So, next time you right Python code, dont' forget to thank Guido Van Rossum. This Dutch programmer invented the Python language. It was he who gave Python this unique and mysterious name.
