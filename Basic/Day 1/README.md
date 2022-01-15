@@ -85,9 +85,9 @@ This opens up the Python IDLE
 Python can also be run on online web based interpreters like [this one.](https://www.onlinegdb.com/online_python_compiler)
 
 
-Additional information for setting up Python can be found [here](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/2f66c25d028eb1439b0705c60ba44bd48c00b6bf/Basic/Day%201/python_environment.pdf).
+Additional information for setting up Python can be found [here](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/main/Basic/Day%201/python_environment.pdf).
 
-A few conceptual exercises on this topic are provided [here](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/2f66c25d028eb1439b0705c60ba44bd48c00b6bf/Basic/Day%201/Exercises)
+A few conceptual exercises on this topic are provided [here](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/main/Basic/Day%201/Exercises.txt)
 
 *To be continued....*
 ***
