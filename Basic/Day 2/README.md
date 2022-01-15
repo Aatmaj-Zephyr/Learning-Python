@@ -11,18 +11,23 @@ ____
 Statements in Python are of three types
  a) *Expressions*- Statements which perform actions like addition, division, or any other such operations.
 Here are a few sample commands.
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63vyhu0x4l4mtuurtkmy.png)
  
 
 b) *Assignments*- The statements giving values to variables are called assignments.
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fx7jfp4nat30849nlf7x.png)
  
 c) *Declarations* - Functions, classes in python are declared by using the keyword "def". The function declaration must end with semicolon ":"
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6lq9a7kd4jba8emr8611.png) 
 
 **Indentation in Python**- We need to leave spaces after every loops and function declarations. Brackets in Java are replaced by indentation in Python.
 If Indentation is not respected, this error is generated.
+
  ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gw6pdo7kylnnxmu1bzvb.png)
+ 
 Moreover, every loop must end by a semicolon ':'
 
 **Comments in Python** - Comments in Python begin with a '#' These commands are ignored by the interpreter and used to make the program clearer for the developers.
@@ -73,7 +78,11 @@ c=(a*b)/(a+b)
 #write the brackets carefully
 print("answer is",c)
 ```
-output-![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c45pic9jsdzmhfhdq343.png)
+output-
+
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c45pic9jsdzmhfhdq343.png)
+
+
 More about operators in Python will be in the next blog... 
 
 Exercise----
