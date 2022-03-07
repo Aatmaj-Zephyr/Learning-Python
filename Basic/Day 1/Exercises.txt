@@ -7,3 +7,6 @@ Please solve these exercises for strengthening the concepts which have been lear
 6) Give two aspects which make Python user friendly.
 7) Is Python interpreted or compiled? 
 8) Is Python a strongly typed or weakly typed language?
+
+
+Read also-https://webandcrafts.com/blog/advantages-and-disadvantages-of-python/
