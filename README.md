@@ -1,6 +1,7 @@
 ![](https://user-images.githubusercontent.com/83284294/141246159-7e3f77d4-49fd-4590-921d-24c77c109d76.jpg)
 
-# Learning-Python 👍 
+# Learning-Python 👍
+
 Hi,🤟 in this repo you will find all material required for the [learning python course!](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) 😁
 All material from sample codes to exercise solutions can be found here. 😇
 For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or Gmail. 😊
@@ -8,10 +9,8 @@ For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or
 [![LinkedIn][1.2]][1]
 [![Gmail][2.2]][2]
 
-
-[1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
+[1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [2.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 [1]: https://www.linkedin.com/in/aatmajmhatre/
 [2]: https://aatmaj.mhatre@gmail.com
 
@@ -19,7 +18,9 @@ For any suggestions, feedback or doubts, feel free to contact me via LinkedIn or
 🙏🙏🙏
 
 ## Feel free to fork this repo!
-______
+
+---
+
 Hi all!🤟 I am launching a brand new blog series for self-learning python. Learn python from the scratch! Have fun while learning Python in an easy way.
 
 These blogs will be published on the Dev.to platform. [Here](https://dev.to/aatmaj/launching-the-learning-python-course-5f31) is the hyperlink. 😁
@@ -30,42 +31,41 @@ This course is for everyone from beginner to advanced. For that, it is designed 
 
 A) Basic-
 
-1) Variables and operators
+1. Variables and operators
 
-2) Loops and nested loops
+2. Loops and nested loops
 
-3) Lists, tuples and dictionaries
+3. Lists, tuples and dictionaries
 
-4) String functions
+4. String functions
 
 B) Intermediate-
 
-1) User defined functions
+1. User defined functions
 
-2) Numeric and Mathematical Modules
+2. Numeric and Mathematical Modules
 
-3) GUI and design
+3. GUI and design
 
-4) File handling in Python
+4. File handling in Python
 
-5) OOP techniques
+5. OOP techniques
 
 c) Advanced-
 
-1) MySql
+1. MySql
 
-2) Database connectivity
+2. Database connectivity
 
-3) Form designing
+3. Form designing
 
-4) Interesting Projects
+4. Interesting Projects
 
 ## Hope to hear from you all in the [comments on dev.to](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)! Please feel free to add any suggestions too!
 
-____
+---
 
 [Learning Python-Basic course: Day 1, Introduction and Installation](https://dev.to/aatmaj/learning-python-basic-course-day-1-introduction-and-installation-ee8)
-
 
 [Learning Python-Basic course: Day 2, Statements, Comments and Indentation](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71)
 
@@ -115,7 +115,7 @@ ____
 
 [Learning Python-Basic course: Day 25, Summary of the basic course.](https://dev.to/aatmaj/learning-python-basic-course-day-25-summary-of-the-basic-course-563j)
 
-____
+---
 
 [Learning Python- Intermediate course: Day 1, User defined functions](https://dev.to/aatmaj/learning-python-intermediate-course-day-1-user-defined-functions-1kg7)
 

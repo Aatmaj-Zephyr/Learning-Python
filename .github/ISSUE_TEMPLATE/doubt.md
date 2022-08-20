@@ -2,9 +2,8 @@
 name: Doubt
 about: I have a doubt which is not resolved
 title: Doubt related to Python
-labels: ''
-assignees: ''
-
+labels: ""
+assignees: ""
 ---
 
-*Type your doubt here*
+_Type your doubt here_

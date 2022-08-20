@@ -2,24 +2,29 @@
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-5-exploring-the-math-module-5alo)
 
-Today we will study how to import modules in Python, and explore the math module. 
----
-_____
-### What are  modules?
-A module is a python file containing Python definitions and statements. A module  it must end with the `.py` extension like all other Python files. 
+## Today we will study how to import modules in Python, and explore the math module.
 
-A module is basically a bunch of functions, variables and runnable  code. By grouping code into modules makes the code easier to read, logically understandable and enhances flexibility.
+---
+
+### What are modules?
+
+A module is a python file containing Python definitions and statements. A module it must end with the `.py` extension like all other Python files.
+
+A module is basically a bunch of functions, variables and runnable code. By grouping code into modules makes the code easier to read, logically understandable and enhances flexibility.
 You can get the official documentation of modules [here](https://docs.python.org/3/tutorial/modules.html)
 
 We will learn to create our own modules in the later parts, but today we explore one of the very useful Python module, that is the `math` module.
 
 ### Importing modules.
+
 For using the math module, we just need to type `import math`, and you are set to go! You can import any Python module using the import statement.
 
 ### The math module
+
 The math module in Python is a very useful module which lets us use mathematical functions in Python. It contains many useful mathematical functions and some constants. You can check the whole list [here](https://docs.python.org/3/library/math.html#math.log)
 
 Here I am presenting some of the very commonly used functions.
+
 ```python
 >>> import math # import the math module
 >>> a=2
@@ -73,7 +78,3 @@ ValueError: n must be a non-negative integer
 2.718281828459045
 
 ```
-
-
-
-

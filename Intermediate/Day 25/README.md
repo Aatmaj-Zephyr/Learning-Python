@@ -2,17 +2,21 @@
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-25-buttons-entry-and-textboxes-2d0n)
 
-Today we will cover three widgets, namely button, entry and textbox.
+## Today we will cover three widgets, namely button, entry and textbox.
+
 ---
-____
 
 ## The plain old button
-We have covered check buttons, radio buttons and label in the previous parts. But now we will see how to make a simple clickable button. 
+
+We have covered check buttons, radio buttons and label in the previous parts. But now we will see how to make a simple clickable button.
 
 The button widget can be created as shown `button=tk.Button(form,text="Press Me",command=cmd)`
-'cmd' is the  command to be executed once the button is pressed. The example below will make things clearer.
-____
+'cmd' is the command to be executed once the button is pressed. The example below will make things clearer.
+
+---
+
 ### Making a blank button
+
 ```python
 import tkinter as tk
 
@@ -26,16 +30,16 @@ form.mainloop()
 show()
 ```
 
-
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w22b2svmeh2ycai4tqxg.png)
 
-
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epcakg5pqhf555sthqdg.png)
- 
+
 On pressing the button, nothing happens. It is just a blank button. But now we will add a counter to count the number of times the button is pressed.
 
-____
+---
+
 ### Adding counter to the button.
+
 ```python
 import tkinter as tk
 
@@ -55,25 +59,24 @@ show()
 
 On pressing the button, the text of the button changes in accordance to the number of times the button is pressed. This is achieved by using the `IntVar()` variable.
 
-
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vzrdmqcpibwxh8zcxd3r.png)
 
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/482syg5vj7gzexldbem1.png)
 
- ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/482syg5vj7gzexldbem1.png)
- 
- 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrx6tz05d7g4qnmx7f9m.png)
- 
-____
-____
+
+---
+
+---
+
 ## The Entry widget.
- The entry widget is a single line textbox. The users can give in a single line input via this widget.
+
+The entry widget is a single line textbox. The users can give in a single line input via this widget.
 `entry = tk.Entry(parent)`
 We can also add other parameters to the entry widget like color, etc. Here is an example below which demonstrates a blank entry widget.
 
-
-
 ### Blank entry widget.
+
 ```python
 import tkinter as tk
 
@@ -89,12 +92,13 @@ form.mainloop()
 show()
 ```
 
-
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mbtpby50gfg5u1qojvfx.png)
 
-_____
+---
+
 ### Getting value from the entry.
-The value of the text can be obtained using the `get()` function.  The below example will make things very clear.
+
+The value of the text can be obtained using the `get()` function. The below example will make things very clear.
 
 ```python
 import tkinter as tk
@@ -115,6 +119,7 @@ button.pack()
 form.mainloop()
 show()
 ```
+
 To process the input data, we will need the help of other widgets. Button for example. In the above example, when the button is pressed, the button text changes according to the value of the entry.
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5oognqdgj9yapvlebo2o.png)
@@ -124,14 +129,19 @@ To process the input data, we will need the help of other widgets. Button for ex
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6tx1vrflcvir6gy3iyhc.png)
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vp4fyvgntwwzp1ja6zoo.png)
- 
-____
-____
+
+---
+
+---
 
 ## Textbox.
+
 Textboxes are just the same as entry widgets, the only difference is that we can add multiple lines to it. Just replace 'Entry' by 'Text' and you are done!
-____
+
+---
+
 ### Blank textbox.
+
 ```python
 import tkinter as tk
 
@@ -146,10 +156,13 @@ TB1.pack()
 form.mainloop()
 show()
 ```
+
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6t7nv5a41xob5juki1ha.png)
- 
+
 #### Setting the text-space
+
 Using the height and width attributes, we can set the number of input characters in each line.
+
 ```python
 import tkinter as tk
 
@@ -165,11 +178,14 @@ show()
 
 ```
 
- ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/olwmezxtkeovnt97hbt2.png)
- 
-____
+![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/olwmezxtkeovnt97hbt2.png)
+
+---
+
 ### Getting input from the textbox.
+
 We can get the input in the same manner. We need to specify two parameters to the get method. The start and the end parameter. `text=TB1.get(1.0, "end-1c")` will give the entire result.
+
 ```python
 import tkinter as tk
 
@@ -194,9 +210,10 @@ show()
 
 ```
 
-
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ka7z6j5nlihj7px5tb0.png)
- 
-____
-___
+
+---
+
+---
+
 So friends, that was all for this part. In the next part, we will do a password management program! So stay tuned in this course!. Follow me on GitHub for updates.

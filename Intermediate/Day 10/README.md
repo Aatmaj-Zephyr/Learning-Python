@@ -2,11 +2,14 @@
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-10-complex-numbers-part-2-48jh)
 
-In the last part, we learnt the basics of operating with complex numbers. Today we will cover many different functions related to complex numbers.
+## In the last part, we learnt the basics of operating with complex numbers. Today we will cover many different functions related to complex numbers.
+
 ---
-____
+
 ### Phase of complex number
-The phase or the argument of  any complex number can be found out using the `phase()` function.
+
+The phase or the argument of any complex number can be found out using the `phase()` function.
+
 ```python
 import cmath
 x = -1.0
@@ -16,11 +19,15 @@ z = complex(x,y);
 # printing phase of a complex number using phase()
 print ("The phase of complex number is : ",cmath.phase(z))
 ```
+
 ```
 The phase of complex number is :  3.141592653589793
 ```
+
 ### Polar form of complex number.
+
 We can convert a complex number to polar form using the `polar()` and back into rectangular form using the `rect()` function.
+
 ```python
 import cmath
 z = complex(1,1)
@@ -31,17 +38,21 @@ z2= cmath.rect(a[0],a[1])
 print ("The rectangular form of complex number is : ",end="")
 print (z2)
 ```
+
 ```
 The polar complex number is : (1.4142135623730951, 0.7853981633974483)
 The rectangular form of complex number is : (1.0000000000000002+1j)
 ```
 
-> Note the return types for the functions 
+> Note the return types for the functions
+
 - `polar()` returns a tuple.
 - `rect()` returns a complex number.
 
 ### Functions is the cmath module
+
 Let us now explore the functions in the cmath module which are frequently used. The example below explains the use of the most commonly used functions. Entire list of functions with documentation can be found [here](https://docs.python.org/3/library/cmath.html)
+
 ```python
 >>> import cmath
 >>> z=complex(-2,1)
@@ -86,13 +97,17 @@ Let us now explore the functions in the cmath module which are frequently used. 
 # z raised to the power z.(note that this is not from the cmath module.
 (-0.00220568464655929+0.013562654681556313j)
 ```
+
 > Note- j is often used in electronics instead of i, hence in Python expressions like `1+1i` are written as `1+ij`
 
-____
+---
+
 ## Applications of complex numbers to computer science.
-Well I know you all must be wondering why in the world are we learning about complex numbers. Well, this is because complex numbers are a very handy tool in solving many real world problems. They are a great way to store in coordinate systems. As we just saw, they are very easy to implement than when compared to vectors. In Python, complex numbers can be operated naturally just like plain old real numbers. 
+
+Well I know you all must be wondering why in the world are we learning about complex numbers. Well, this is because complex numbers are a very handy tool in solving many real world problems. They are a great way to store in coordinate systems. As we just saw, they are very easy to implement than when compared to vectors. In Python, complex numbers can be operated naturally just like plain old real numbers.
 
 Other applications of complex numbers include-
+
 - Signal processing
 - Image processing
 - Scientific computing
@@ -101,17 +116,20 @@ Other applications of complex numbers include-
 - Data compression
 
 Read also
+
 - [What are some applications of complex numbers in computer science?](https://www.quora.com/What-are-some-applications-of-complex-numbers-in-computer-science)
 - [complex numbers in programming?](https://softwareengineering.stackexchange.com/questions/118690/complex-numbers-in-programming)
 
-____
+---
+
 # For those who are new to the concept of complex numbers might like the video below.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=T647CGsuOVU
 "><img src="http://img.youtube.com/vi/T647CGsuOVU/0.jpg" alt="Welch labs vedio" width="240" height="180" border="10"></img></a>
 
-_____
-_____
+---
+
+---
 
 Did You like the content?😎 Please let me know in the [comment section on dev.to](https://dev.to/aatmaj/learning-python-intermediate-course-day-10-complex-numbers-part-2-48jh) 👇. And don't forget to like the post if you did. 😍 I am open to any suggestions or doubts. 🤠 Just post in the [comments on dev.to](https://dev.to/aatmaj/learning-python-intermediate-course-day-10-complex-numbers-part-2-48jh) or gmail me. 😉
 Thank you all👍

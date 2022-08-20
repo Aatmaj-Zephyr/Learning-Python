@@ -2,11 +2,14 @@
 
 Originally published ion the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-6-math-exercises-12ge)
 
-In the last part we covered the math module. In this part, we will solve some questions related to it.
+## In the last part we covered the math module. In this part, we will solve some questions related to it.
+
 ---
-____
+
 ### Sample questions.
-- Write a program to check if a number is an ["Armstrong number"](https://en.wikipedia.org/wiki/Narcissistic_number) or not 
+
+- Write a program to check if a number is an ["Armstrong number"](https://en.wikipedia.org/wiki/Narcissistic_number) or not
+
 ```python
 def armstrong(x):
     a=str(x) #convert int to string to make it iteratable
@@ -14,7 +17,7 @@ def armstrong(x):
     Sum=0
     for i in a:
         counter=counter+1
-    
+
     for i in a:
         Sum=Sum+pow(int(i),counter)
     if(Sum==x):
@@ -23,11 +26,14 @@ def armstrong(x):
 print(armstrong(153))
 print(armstrong(1723))
 ```
+
 ```
 True
 False
 ```
-#### Alternative 
+
+#### Alternative
+
 ```python
 def armstrong(x):
     n = 0
@@ -45,29 +51,34 @@ def armstrong(x):
 print(armstrong(153))
 print(armstrong(1723))
 ```
+
 ```
 True
 False
 ```
 
 - Write the function power which returns the number raise to a power without using the math function `pow()`
+
 ```python
-def power(x, y):      
+def power(x, y):
     if (y == 0):
         return 1
     if (y % 2 == 0):
-        return power(x, y // 2) * power(x, y // 2)      
+        return power(x, y // 2) * power(x, y // 2)
     return x * power(x, y // 2) * power(x, y // 2)
 print(power(2,3))
 print(pow(2,3))
 ```
+
 ```
 8
 8
 ```
-> **Logic** The function power is a function which makes use of recursion in Python. The power is raised using recursive multiplication. 
+
+> **Logic** The function power is a function which makes use of recursion in Python. The power is raised using recursive multiplication.
 
 #### Alternative-
+
 ```python
 def power(a, b):
     temp=a
@@ -77,16 +88,20 @@ def power(a, b):
 print(power(3,4))
 print(pow(3,4))
 ```
+
 ```
 81
 81
 ```
 
 ### Exercise.
+
 Write the following functions without using their predefined math versions.
+
 - `hypot()`
 - `sqrt()`
 - `asinh()`
 
 Answers in this [Learning Python Repository](https://github.com/Aatmaj-Zephyr/Learning-Python)
-_____
+
+---

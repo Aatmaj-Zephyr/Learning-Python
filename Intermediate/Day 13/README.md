@@ -2,11 +2,11 @@
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-13-the-statistics-module-2bb5)
 
-Today we will cover the `statistics` module in python.
----
-____
-Python has the built-in module `statistics` that you can use to calculate mathematical statistics of numeric data. You do not require to install anything extra. This `statistics` module was introduced new in Python 3.4.
+## Today we will cover the `statistics` module in python.
 
+---
+
+Python has the built-in module `statistics` that you can use to calculate mathematical statistics of numeric data. You do not require to install anything extra. This `statistics` module was introduced new in Python 3.4.
 
 The below sample shows the various functions in the module. I have ordered the methods as per the level of usage.
 
@@ -19,12 +19,12 @@ The below sample shows the various functions in the module. I have ordered the m
 >>> st.mode(a)
 #Calculates the mode (central tendency) of the given numeric or nominal data
 7
->>> st.harmonic_mean(a) 
+>>> st.harmonic_mean(a)
 #Calculates the harmonic mean of the given data
 2.8317788515563547
 >>> b=[-2,3,4]
 >>> st.harmonic_mean(b)
-#StatisticsError is raised if data is empty, or any element is less than zero. 
+#StatisticsError is raised if data is empty, or any element is less than zero.
 #Harmonic mean doesn't support negative numbers
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
@@ -70,4 +70,5 @@ Traceback (most recent call last):
     raise StatisticsError("no median for empty data")
 statistics.StatisticsError: no median for empty data
 ```
+
 You will find a more detailed and comprehensive explaination at the [official documentation](https://docs.python.org/3/library/statistics.html)

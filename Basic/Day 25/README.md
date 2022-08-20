@@ -4,14 +4,13 @@ Originally published on the dev.to platform [here](https://dev.to/aatmaj/learnin
 
 So friends today is the last lecture of the basic course and today we will just summarize whatever we learnt till now.
 
-
 - **[Day 1](https://dev.to/aatmaj/learning-python-basic-course-day-1-introduction-and-installation-ee8)** We learnt what is Python, installed Python and wrote our very first hello world program. We also understood why Python is advantageous to other languages like C and Java.
 
-- **[Day 2](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71)** We learnt about Python statement types like assignments, expressions, declarations. We learnt how comments are written and the need of indentation. We then solved a few practice programs. 
+- **[Day 2](https://dev.to/aatmaj/learning-python-basic-course-day-2-statements-comments-and-indentation-5b71)** We learnt about Python statement types like assignments, expressions, declarations. We learnt how comments are written and the need of indentation. We then solved a few practice programs.
 
 - **[Day 3](https://dev.to/aatmaj/learning-python-basic-course-day-3-operators-and-if-elif-else-51cc)** We covered logical, relational, assignment and arithmetic operators, saw how they work. Then we understood the if-else syntax and solved a few problems on that.
 
-- **[Day 4](https://dev.to/aatmaj/learning-python-basic-course-day-4-the-for-loop-40m8)** We learnt the For Loop in Python, how it differed from C, and solved some questions related to it. 
+- **[Day 4](https://dev.to/aatmaj/learning-python-basic-course-day-4-the-for-loop-40m8)** We learnt the For Loop in Python, how it differed from C, and solved some questions related to it.
 
 - **[Day 5](https://dev.to/aatmaj/learning-python-basic-course-day-5-summary-of-the-week-and-interview-questions-37m0)** After quickly summarizing the week's learnings, we solved some questions which are asked in technical interviews.
 
@@ -53,13 +52,14 @@ So friends today is the last lecture of the basic course and today we will just 
 
 - **[Day 24](https://dev.to/aatmaj/learning-python-basic-course-day-24-string-methods-part-3-1mg9)**- We finished off with string functions
 
+---
 
-____
 This marks the end of the Basic module of the Learning Python Course!
-____
+
+---
 
 Please visit the [Learning Python Repository](https://github.com/Aatmaj-Zephyr/Learning-Python), which contains all the material for this course.
 
+---
 
-____
 You all can ask me any doubts by forking [this file](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/main/Basic/Doubts/Doubts.md) and sending a pull request.

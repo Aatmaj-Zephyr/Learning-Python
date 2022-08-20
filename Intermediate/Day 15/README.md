@@ -2,16 +2,20 @@
 
 Originally published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-intermediate-course-day-15-complete-guide-to-the-fractions-module-4ki8)
 
-Today is your complete guide to fractions in Python
+## Today is your complete guide to fractions in Python
+
 ---
-____
+
 > The fractions module provides support for rational number arithmetic.
 
 The fractions module is yet another inbuilt module in Python. This module is very useful when we deal with floating numbers. This module converts floating numbers to more understandable fractions.
+
 ### Expressing numbers as fractions.
-Every number can be represented as a fraction. *(Well any number with finite decimal places at least)* Sometimes converting a number into fractions makes it easier to understand and easier to comprehend. This is also useful when you require to use rational arithmetic over floating point arithmetic for various mathematical or scientific work.
+
+Every number can be represented as a fraction. _(Well any number with finite decimal places at least)_ Sometimes converting a number into fractions makes it easier to understand and easier to comprehend. This is also useful when you require to use rational arithmetic over floating point arithmetic for various mathematical or scientific work.
 
 We can see how to use this module from the example shown below.
+
 ```python
 >>> import fractions as fr
 # import the fractions module
@@ -27,16 +31,18 @@ Traceback (most recent call last):
 ZeroDivisionError: Fraction(1, 0)
 >>>
 ```
+
 The `fr.Fraction()` converts a floating number into a fraction object. The print function automatically converts the fraction object into a readable format.
 When the denominator is zero, a `ZeroDivisionError` is returned
 
-##### Here is another example, which I have *copied* from the official documentation and *annotated it with comments* to make it understandable.
+##### Here is another example, which I have _copied_ from the official documentation and _annotated it with comments_ to make it understandable.
+
 ```python
 >>> from fractions import Fraction
 # Import the `Fraction` part of the fraction module.
 # from fractions import * will also work
 >>> Fraction(16, -10)
-# make a fraction with numerator 16, denominator 10 and 
+# make a fraction with numerator 16, denominator 10 and
 # reduce it to the lowest form
 Fraction(-8, 5)
 >>> Fraction(123)
@@ -84,7 +90,9 @@ Fraction(11, 10)
 ```
 
 # Operations on fractions.
+
 Operating on fractions is just like operating on real numbers
+
 ```python
 >>> from fractions import *
 >>> a=fraction(1.25)
@@ -119,9 +127,13 @@ Fraction(-11, 4)
 >>> a**b
 (-2.56724389811345e-16-1.3975424859373686j)
 ```
+
 # Methods in the fractions module.
+
 The fractions module does contain a few useful methods as shown below.
+
 - The `as_integer_ratio()` This returns a tuple two integers, whose ratio is equal to the Fraction in such a way that the denominator is positive.
+
 ```python
 >>> import fractions as fr
 >>> a=fr.Fraction(-1.75)
@@ -135,7 +147,9 @@ AttributeError: module 'fractions' has no attribute 'as_integer_ratio'
 >>> a.as_integer_ratio()
 (-7, 4)
 ```
+
 - The `limit_denominator()`
+
 ```python
 >>> import fractions as fr
 >>> b=fr.Fraction(3.141596372)
@@ -148,7 +162,9 @@ Fraction(22, 7)
 >>> b.limit_denominator(10000000)
 Fraction(10390475, 3307387)
 ```
+
 - Functions to round of the fractions. There are various functions to round off the fractions as shown below.
+
 ```python
 >>> import fractions as fr
 >>> b=fr.Fraction(3.141596372)
@@ -163,5 +179,6 @@ Fraction(1571, 500)
 4
 ```
 
-___
+---
+
 That's all for now. You might want to check out the [official documentation of the fractions module](https://docs.python.org/3/library/fractions.html) too!

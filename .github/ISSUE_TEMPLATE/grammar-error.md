@@ -1,10 +1,9 @@
 ---
 name: Grammar error
 about: There is any error in grammar or punctuation
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: ""
 ---
 
 **Where was the error?**
