@@ -205,8 +205,6 @@ c) Advanced-
 
 [Learning Python- Intermediate course: Day 44, Summary of the week, examples and exercises](https://dev.to/aatmaj/learning-python-intermediate-course-day-44-summary-of-the-week-examples-and-exercises-3lfg)
 
-
-______
-
+---
 
 Find more python code, university notes and practicals [here](https://github.com/Aatmaj-Zephyr/Solutions-to-first-year-practicals/tree/main/python)
