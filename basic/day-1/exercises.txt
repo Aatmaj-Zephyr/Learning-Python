@@ -1,0 +1,12 @@
+Please solve these exercises for strengthening the concepts which have been learnt in the first day.
+1) Name any one disadvantage of Python.
+2) What is Python ususlly used for?
+3) Name five advantages of Python.
+4) Write a hello world program in Python.
+5) Is Python an OOP languages?
+6) Give two aspects which make Python user friendly.
+7) Is Python interpreted or compiled? 
+8) Is Python a strongly typed or weakly typed language?
+
+
+Read also-https://webandcrafts.com/blog/advantages-and-disadvantages-of-python/

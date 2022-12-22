@@ -1,0 +1,8 @@
+Guido van Rossum is the creator of the Python programming language.
+He grew up in the Netherlands and studied at the University of Amsterdam, where he graduated with a Master's Degree in Mathematics and Computer Science. 
+His first job after college was as a programmer at CWI, where he worked on the ABC language, the Amoeba distributed operating system, and a variety of multimedia projects.
+During this time he created Python as side project.
+He then moved to the United States to take a job at a non-profit research lab in Virginia, married a Texan, worked for several other startups, and moved to California.
+In 2005 he joined Google, where he obtained the rank of Senior Staff Engineer, and in 2013 he started working for Dropbox as a Principal Engineer.
+In October 2019 he retired. Until 2018 he was Python's BDFL (Benevolent Dictator For Life), and he is still deeply involved in the Python community. 
+Guido, his wife and their teenager live in Silicon Valley, where they love hiking, biking and birding.
