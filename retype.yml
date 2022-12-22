@@ -1,0 +1,9 @@
+input: .
+output: .retype
+branding:
+  title: Learning Python Series
+links:
+  - text: Complete Blog series
+    link: https://dev.to/aatmaj/series/13315
+footer:
+  copyright: "&copy; Copyright Aatmaj. MIT License. All rights reserved."
