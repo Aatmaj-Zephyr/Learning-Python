@@ -2,6 +2,8 @@ input: .
 output: .retype
 branding:
   title: Learning Python Series
+include:
+  - "*.py"
 links:
   - text: Complete Blog series
     link: https://dev.to/aatmaj/series/13315
