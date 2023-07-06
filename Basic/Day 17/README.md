@@ -1,8 +1,8 @@
-[Learning Python-Basic course: Day 17, Summary of the week and Insertion sort](https://dev.to/aatmaj/learning-python-basic-course-day-17-summary-of-the-week-and-insertion-sort-4bi0)
+# [Learning Python-Basic course: Day 17, Summary of the week and Insertion sort](https://dev.to/aatmaj/learning-python-basic-course-day-17-summary-of-the-week-and-insertion-sort-4bi0)
 
 Originallly published on the dev.to platform [here](https://dev.to/aatmaj/learning-python-basic-course-day-17-summary-of-the-week-and-insertion-sort-4bi0)
 
-# 🤟Today we will learn about the insertion sort code, then write a program to change capital and small cases.
+### 🤟Today we will learn about the insertion sort code, then write a program to change capital and small cases.
 
 ---
 
