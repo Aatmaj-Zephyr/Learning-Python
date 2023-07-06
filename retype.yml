@@ -5,7 +5,14 @@ branding:
 include:
   - "*.py"
 links:
+  - text: Follow me on Github
+    link: https://github.com/Aatmaj-Zephyr
+    icon: mark-github
+  - text: Star the repository
+    link: https://github.com/Aatmaj-Zephyr/Learning-Python
+    icon: star
   - text: Complete Blog series
     link: https://dev.to/aatmaj/series/13315
+    icon: file
 footer:
   copyright: "&copy; Copyright Aatmaj. MIT License. All rights reserved."
