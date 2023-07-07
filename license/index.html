@@ -9,35 +9,32 @@
     <meta name="generator" content="Retype 3.0.3">
 
     <!-- Primary Meta Tags -->
-    <title>Learning Python- Intermediate course: Day 7, Making Python modules</title>
-    <meta name="title" content="Learning Python- Intermediate course: Day 7, Making Python modules">
-    <meta name="description" content="Originally published on the dev.to platform here" />
+    <title>LICENSE</title>
+    <meta name="title" content="LICENSE">
+    <meta name="description" content="Copyright (c) 2021-2022 Aatmaj" />
 
     <!-- Canonical -->
-    <link rel="canonical" href="/intermediate/day-7/" />
+    <link rel="canonical" href="/license/" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="/intermediate/day-7/">
-    <meta property="og:title" content="Learning Python- Intermediate course: Day 7, Making Python modules">
-    <meta property="og:description" content="Originally published on the dev.to platform here">
-    <meta property="og:image" content="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gimh5787334irbtozlp6.png">
+    <meta property="og:url" content="/license/">
+    <meta property="og:title" content="LICENSE">
+    <meta property="og:description" content="Copyright (c) 2021-2022 Aatmaj">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="/intermediate/day-7/">
-    <meta property="twitter:title" content="Learning Python- Intermediate course: Day 7, Making Python modules">
-    <meta property="twitter:description" content="Originally published on the dev.to platform here">
-    <meta property="twitter:image" content="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gimh5787334irbtozlp6.png">
+    <meta property="twitter:url" content="/license/">
+    <meta property="twitter:title" content="LICENSE">
+    <meta property="twitter:description" content="Copyright (c) 2021-2022 Aatmaj">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.0.3.742028288977" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=3.0.3.742028288977" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.742028288977" data-turbo-eval="false" defer></script>
-    <script type="text/javascript" src="../../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.742028288977" data-turbo-eval="false" defer></script>
-    <script id="prism-js" type="text/javascript" src="../../resources/js/prism.js?v=3.0.3.742028288977" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=3.0.3.742028288977" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=3.0.3.742028288977" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -52,7 +49,7 @@
                 <!-- Logo -->
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
-                        <a id="docs-site-logo" href="../../" class="flex items-center leading-snug text-xl">
+                        <a id="docs-site-logo" href="../" class="flex items-center leading-snug text-xl">
                             <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">Learning Python Series</span>
                         </a>
                     </div>
@@ -223,94 +220,14 @@
                                 <div id="docs-sidebar-right-toggle"></div>
                 
                                 <!-- Page content  -->
-<doc-anchor-target id="learning-python--intermediate-course-day-7-making-python-modules" class="break-words">
+<doc-anchor-target id="license" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#learning-python--intermediate-course-day-7-making-python-modules">#</doc-anchor-trigger>
-        <span><a href="https://dev.to/aatmaj/learning-python-intermediate-course-day-7-making-python-modules-kmf">Learning Python- Intermediate course: Day 7, Making Python modules</a></span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#license">#</doc-anchor-trigger>
+        <span>LICENSE</span>
     </h1>
 </doc-anchor-target>
-<p>Originally published on the dev.to platform <a href="https://dev.to/aatmaj/learning-python-intermediate-course-day-7-making-python-modules-kmf">here</a></p>
-<doc-anchor-target id="we-have-learnt-how-to-use-predefined-python-modules-today-we-will-create-our-very-own-python-module-so-put-your-seatbelts-on-for-this-thrilling-python-journey">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#we-have-learnt-how-to-use-predefined-python-modules-today-we-will-create-our-very-own-python-module-so-put-your-seatbelts-on-for-this-thrilling-python-journey">#</doc-anchor-trigger>
-        <span>We have learnt how to use predefined python modules. Today we will create our very own Python module. <span class="docs-emoji">&#x1F929;</span> So put your seatbelts on for this thrilling Python journey<span class="docs-emoji">&#x1F680;</span></span>
-    </h2>
-</doc-anchor-target>
-<hr />
-<doc-anchor-target id="modules-in-python">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#modules-in-python">#</doc-anchor-trigger>
-        <span>Modules in Python</span>
-    </h3>
-</doc-anchor-target>
-<p>Creating a module in Python is a very easy task. <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gimh5787334irbtozlp6.png" alt="image" /></p>
-<ul>
-<li><strong>Step I</strong> Make a python file named mymodule.py <em>(or any other name ending with <code v-pre>.py</code>)</em> which contains various functions. Do this in Python IDLE or any other IDE.
-Here is a sample file-</li>
-</ul>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-python"><code v-pre class="language-python">def hi():
-    print(&quot;hi&quot;)
-def hello():
-    print(&quot;hello&quot;)
-def add(a,b):
-    return a+b
-def printer(a):
-    print(a)</code></pre>
-</doc-codeblock></div>
-<ul>
-<li><strong>Step II</strong> Save the python file (or copy-paste the file) in the Lib (not libs) folder of the Python source code.
-<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p0h2lhupyhf1kvi16htj.png" alt="image" /></li>
-</ul>
-<p><figure class="content-center">
-    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lch7es61p6z5h4omr62o.png" alt="image" />
-    <figcaption class="caption">image</figcaption>
-</figure>
-</p>
-<ul>
-<li><strong>Step III</strong> In the file in which you want to use the module, write <code v-pre>import mymodule</code> <em>(import the relevant module name)</em> After that, just use the functions in the module as predefined functions. Simple !!</li>
-</ul>
-<p>Here is the program which uses the functions in our module.</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-python"><code v-pre class="language-python">import mymodule
-mymodule.printer(&quot;Welcome to Python intermediate course!&quot;)
-print(mymodule.add(2,3))
-mymodule.hello()</code></pre>
-</doc-codeblock></div>
-<p>We now save it in a file named &#x27;mymoduletester&#x27; and run it.
-<figure class="content-center">
-    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/38ckjf3y6kcdx9tiiuhs.png" alt="image" />
-    <figcaption class="caption">image</figcaption>
-</figure>
-</p>
-<p>After we run the file, an output is generated in a command line window.
-<figure class="content-center">
-    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6nyx30dz7bw9ptrzucz9.png" alt="image" />
-    <figcaption class="caption">image</figcaption>
-</figure>
-</p>
-<p>OUTPUT-</p>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-none"><code v-pre class="language-none">Python 3.10.0a2 (tags/v3.10.0a2:114ee5d, Nov  3 2020, 00:37:42) [MSC v.1927 64 bit (AMD64)] on win32
-Type &quot;help&quot;, &quot;copyright&quot;, &quot;credits&quot; or &quot;license()&quot; for more information.
-&gt;&gt;&gt;
-= RESTART: C:/Users/aatma/AppData/Local/Programs/Python/Python310/Lib/mymoduletester.py
-Welcome to Python intermediate course!
-5
-hello
-</code></pre>
-</doc-codeblock></div>
-<p>That&#x27;s it! We have successfully made our own module and used it in our code!<span class="docs-emoji">&#x1F913;</span> Cool!<span class="docs-emoji">&#x1F60E;</span></p>
-<p>I have used the IDLE for Python over here, but you are free to use any editor you want. We can have the same effect by using the online GDB compiler as shown below.
-<figure class="content-center">
-    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/175gnpj0k8xzvqi8kct2.png" alt="image" />
-    <figcaption class="caption">image</figcaption>
-</figure>
-</p>
-<hr />
-<p><span class="docs-emoji">&#x270C;&#xFE0F;</span>So friends that&#x27;s all for now. <span class="docs-emoji">&#x1F60A;</span> Hope you all are having fun.<span class="docs-emoji">&#x1F60E;</span> Please let me know in the comment section below <span class="docs-emoji">&#x1F447;</span>. And don&#x27;t forget to like the post if you did. <span class="docs-emoji">&#x1F60D;</span> I am open to any suggestions or doubts. <span class="docs-emoji">&#x1F920;</span> Just post in the comments below or gmail me. <span class="docs-emoji">&#x1F609;</span>
-Thank you all<span class="docs-emoji">&#x1F44D;</span></p>
-<p>Also please visit the <a href="https://github.com/Aatmaj-Zephyr/Learning-Python">Learning-Python repo</a> made especially for this course and don&#x27;t forget to star it too</p>
+<p>Copyright (c) 2021-2022 Aatmaj</p>
+<p>It is hearby not permitted to copy, share the contents of this repository withour prior written permission from the author.</p>
 
                                 
                                 <!-- Required only on API pages -->
@@ -320,23 +237,16 @@ Thank you all<span class="docs-emoji">&#x1F44D;</span></p>
                             
                                 <nav class="flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../intermediate/day-6/">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../code_of_conduct/">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
                                                 <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
-                                                <span class="block mt-1">Learning Python- Intermediate course: Day 6, Math Exercises</span>
+                                                <span class="block mt-1">Contributor Covenant Code of Conduct</span>
                                             </span>
                                         </a>
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../intermediate/day-8/">
-                                            <span>
-                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
-                                                <span class="block mt-1">Learning Python- Intermediate course: Day 8, Summary of the week and nested Modules</span>
-                                            </span>
-                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
-                                        </a>
                                     </div>
                                 </nav>
                             </footer>
@@ -377,6 +287,6 @@ Thank you all<span class="docs-emoji">&#x1F44D;</span></p>
 
     <div id="docs-overlay-target"></div>
 
-    <script>window.__DOCS__ = { "title": "Learning Python- Intermediate course: Day 7, Making Python modules", level: 2, icon: "file", hasPrism: true, hasMermaid: false, hasMath: false }</script>
+    <script>window.__DOCS__ = { "title": "LICENSE", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
 </body>
 </html>
